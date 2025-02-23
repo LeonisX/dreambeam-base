@@ -1,0 +1,42 @@
+Title : Shenmue Ichishou Yokosuka (C) Sega/AM2  1999
+  
+          Ripped by: MAG'94  
+          Supplier : CVGS
+          Released : 01.06.2008
+          Platform : Sega Dreamcast      
+          Origin   : Japan/NTSC
+          Filenames: CD1-Shenmue-Ichishou-Yokosuka-NTSC-Japan-Sega-Dreamcast-MAG'94.rar
+                     CD2-Shenmue-Ichishou-Yokosuka-NTSC-Japan-Sega-Dreamcast-MAG'94.rar
+                     CD3-Shenmue-Ichishou-Yokosuka-NTSC-Japan-Sega-Dreamcast-MAG'94.rar
+                     CD4-Shenmue-Ichishou-Yokosuka-NTSC-Japan-Sega-Dreamcast-MAG'94.rar
+                     F355OPENMENU.rar - Save file "Visual Memory" (example) for "CD4 Shenmue Passport"
+                                opens the menu "F355 Challenge VM operator"
+      CD(s)    : 4 (80min) - ONLY OVERBURN MODE (See notes)
+          Format   : DiscJuggler 4.60 Image (.cdi)
+          Rip notes: See notes 
+
+___________________________________________________________________________
+
+
+ Rip notes and how to burn
+- ----------------------------- -
+ This FULL RIP, nothing removed for real play.
+
+ CD1 - nothing downsampled
+ CD2 - dowsampled only speech 
+ CD3 - dowsampled only speech, CDDA includes (not removed)
+ CD4 Shenmue Passport - dowsampled only movie, CDDA includes (not removed)
+
+ To burn use DiscJuggler V4.60 or later 
+ 
+ Full image size: 
+ CD1 - 80:57:69
+ CD2 - 80:26:58
+ CD3 - 81:26:38
+ CD4 - 81:14:26
+
+ Burn is possible ONLY OVERBURN MODE!
+ (Open the file *.cdi in DiscJuggler, will choose "Advanced", select "Overburn CD/DVD")
+ 
+ Tested on 80min cd-r, fully work.
+ Yours recorder should support overburn mode.

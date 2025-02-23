@@ -1,0 +1,37 @@
+ƒанна€ программа нужна дл€ обслуживани€ карты пам€ти. ќна может удал€ть, форматировать, "открывать" дополнительные 44 блока ( работает не на всех карточках ), редактировать сохранени€ ( например можно запустить сохранени€ из Shenmue 1 на Shenmue 2 ) и т.д. ј так же содержит базу сэйвов на несколько игр и имеет несколько дополнительных приложений.
+
+http://bswirl.kitsunet.org
+
+Description:
+VMU Tool (a.k.a Dream Explorer) is an application for the Dreamcast that allows you to explore the content of your VMU, PC, and CD/GD, and open their files in the numerous bundled tools.
+
+Among other things you can easily backup up VMU files to PC and vice versa, or download VMU files from CD. DCI and VMI+VMS files are supported as well as raw
+or DCM dumps.
+
+The VMU menu lets you:
+- browse your VMUs (includes hidden files)
+- unlock 44 extra blocks for your VMUs
+- compress/uncompress VMU files
+- draw your own icon for the VMU screen
+- defragment the VMU files
+- play VMU minigame on your TV with the VMU emulator
+- change the background image of the Dreamcast's boot menu
+- hexedit VMU files
+- view PSO screenshots
+- edit Gameshark CDX codes
+- and much more...
+
+The PC/CD explorer lets your freely browse the directories of your PC's hard drive disk or the CD/GD inserted in your Dreamcast.
+
+You can open BMP, JPEG and PNG images as well as PVR textures in an image viewer with many features such as zoom, rotation, flipping, slideshow...
+
+There's also an audio player for playing MP3, Ogg Vorbis and Wave sounds with a timer displayed in real time.
+
+And if you want to read text files easily from your Dreamcast you can open them in the text viewer. It displays formatted text with auto carriage return.
+
+The GUI is fully themable. You can select a wallpaper from your PC or a CD/GD in your Dreamcast. The menus' background color and opacity as well as text's color
+can be changed in options or loaded from a theme file.
+
+Menus texts are translated to English (fully) and French (mostly), and also partly to German, Dutch, Portuguese, Spanish, Swedish and Polish.
+
+You can use the pad or the Dreamcast keyboard to browse menus and enter text, keyboard's keys position can be changed in options.

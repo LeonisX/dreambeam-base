@@ -1,0 +1,44 @@
+TITLE : NEXT TETRiS ONLiNE EDiTiON [USA/NTSC] W/CDDA & Self Boot
+SUPPLIER: R18?RELEASE DATE : 28.12.2000 .
+
+RELEASE NOTE: ·
+Back to the R00ts, this time with audio! Smells like Silence b4 storm?
+========================================================
+You really can't go wrong with a great formula like Tetris. One of the best-selling games of all time now comes to you in its latest, most visually impressive form, The Next Tetris, Online Edition for the Dreamcast. Our preview copy revealed a very slick presentation, with an obvious high-tech, futuristic theme. Robotic arms and computer panels spring out to reveal your menu choices in a nicely done, not too garish way. Modes available include classic Tetris in single- and multiplayer modes, as well as TNT mode with online support for round-based head-to-head matches and two different marathon games. There's even access to a nifty practice mode if you feel the need to bone up on your MENSA training before you compete with the rest of the country.
+ 
+The graphics are clean and sharp, and they do well by not being overpowering or distracting. The window flips and turns that you feel after an opponent's multiline combo in TNT mode is suitably nauseating and fear-inducing. Some might be bothered by the slight tilt in the angle of the play screen. The colors are distinct, and the sound effects and voices of affirmation are passable, if a bit boring and unenthusiastic. We'll be anxiously awaiting the implementation of a soundtrack or background music of some sort. 
+ 
+With SegaNet up and running and with the success of NFL 2K1, TNT offers fans of puzzle-gaming an undoubtedly large base of opponents to play  against. Apparently, strong network connections are sure to attract many competitive enthusiasts to the ranking system. You score a point by defeating an opponent in three rounds of a match; by winning matches not by filling your opponent's screen (as in classic Tetris) but by reaching the bottom layer; by ending the game; or by having the least rows before a two-minute time limit. This leads to fast and furious matches and quicker gratification than what you can find in other versions of the puzzler. You can also play TNT in marathon mode - the goal here is to survive as long as possible foiling your opponent's brick-breaking along the way. The player with the longest time gets the top ranking. The same goes for score marathon, the mode in which, instead of how fast you finish?, you are ranked for biggest combo and number of lines destroyed. 
+ 
+We will be awaiting the release of The Next Tetris Online Edition to get a first-hand impression of how the SegaNet service works with the multiplayer aspect and whether the rankings are dealt with in as competitive and fun a way as possible. While the copy we have is far from completion, the potential for a really great game is here: Blue Planet did well to rely upon the timeless gameplay of Tetris without bogging it down with mindless effects and glitz. 
+ 
+Burning info:
+We did not put this in standard Juggler format so that those that have Linux can still burn this. 
+ 
+Steps to burn this:
+ 
+CDRWIN Method (borrowed from ECHELON'S tutorial):
+------------------------------------------------ 
+1) Fire up CDRWIN
+2) Select Record Disc
+3) Click "Load Tracks", Click "Add" and select the CDDA directory's MP3 files. Add them in order.
+4) Click "OK" after the "Compiling Cue Sheet" box goes away, put a check in the box "Open New Session"
+5) Click "Start Recording" 
+ 
+When this is complete, click OK to dismissin the "Recording complete" box. 
+ 
+6) From CDRWIN's main menu, select the 2nd to the right button "File Backup & Tools"
+7) Backup/Tool operation - set this to "Record an ISO9660 Image File"
+8) Select Tetris.iso in the image filename section 
+9) Select CDROM-XA and Mode 2
+10) Record.
+  
+CDRECORD Method (Mostly taken from EcHELON'S tutorial Kit):
+---------------------------------------------------------- 
+1) Decompress the MP3 files from .mp3 format to .wav format naming them
+track01.wav, track02.wav etc.
+2) Now you should have a CDDA directory containing .wav files. 
+3) At a command prompt, run the command: cdrecord -scanbus 
+4) Next, run: cdrecord -dev=x,x,x -multi -audio speed=x cdda\track01.wav cdda\track02.wav (etc...) 
+5) When the above is finished, run: cdrecord -dev=x,x,x -xa1 speed=x 
+tetris.iso 

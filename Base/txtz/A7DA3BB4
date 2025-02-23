@@ -1,0 +1,9 @@
+CARRIER *FIXED SPEECH* 
+Region    : USA/NTSC
+Date      : January 27, 2001
+Fixed by       : Klone
+Ripped by      : God.. er, Echelon!
+
+Echelon released this a long long time ago, but most of you probably noticed the speech in this game was pretty fucked up. The main thing was that the speech either didnt start when it was supposed to, or didnt start at all. So after waiting awhile for a fix i decided to get off my lazy ass and fix it myself, so i did, and here it is. This pretty much required a repack, it wasnt some small error in the 1st_read.bin or anything, the sound files were messed. So have fun with this release, it will most likely be my only release ever, and thank god, cause what a pain in the ass. Kudos to Echelon, this shit can be a major pain in the ass (and THEY do the hard stuff). This was made into a selb-booting game useing xeal's bin2boot program (because he rules, and it  rules). Go get it at http://xeal.cjb.net. And dont worry, i know that dj says the cd title is "xeal.cjb.net", but its really "CARRIER". This was tested, and it works great, but dont blame me for the mouths not matching the voices, it was made for the japanese voices.
+
+P.S. Sorry about the lame nfo and BAAAAD ascii. The nfo  was made on the fly, and the ascii is an inside joke. :)

@@ -1,0 +1,52 @@
+Game.....: NBA 2K
+Origin...: USA - NTSC
+Released.: December 26th, 2000
+Ripped.......: See Release Notes
+
+Right before the end of millenium, ECHELON has cracked for your pleasure the games that all American's have been awaiting since the beginning of the Dreamcast scene! Yes baby! After 6 months of on and off work we give you NBA2K, NFL2K, NBA2K1, and NFL2K1. We hope you all had a nice Christmas/Hanukkah/Kwanzaa, enjoy  these games before the start of the new millenium & year!
+
+Greetings to our friends at Kalisto Playstation for helping us with the cracks! These releases would not be possible without 
+them, Thanks!
+
+The commentary and play by play announcing has been downsampled in this release and the intro FMV has been downsampled.
+
+Also, please take note that this isn't your standard format for a self-booting image. Quite a few people may have problems
+burning these games. We have devised a few solutions for those that may have problems with DiscJuggler:
+
+A) Self-Boot Solution
+1. Run CDIRIP on the DiscJuggler image with the flags /iso and  /full. 
+2. Goto CDRWIN's Tools Menu, Select Record ISO9660 Image. Choose the 1st Session as your ISO image, select the options:
+   CDROM-XA, MODE2, Open New Session, Finalize Close/Session.
+3. Burn this session off at your desired speed.
+4. Goto CDRWIN's Tools Menu, Select Record ISO9660 Image. Choose  the 2nd Session as your ISO image, select the options:  CDROM-XA, MODE2, Finalize/Close Session.
+
+B) CD-Loader Solution
+1. Run CDIRIP on the DiscJuggler image with the flags /iso and /full.
+2. Goto CDRWIN's Tools Menu, Select Record ISO9660 Image, Choose the 1st Session as your ISO image, Select the options:
+   CDROM, MODE1, and Finalize/Close Session.
+3. Burn it off and load up in your CD-Loader.
+
+Alternate method: Use CDmage and extract all files from the 1st session, then master them with your favorite data mastering program as MODE1.
+
+Of course if you have a decent burner that fully supports DiscJuggler, you don't have to worry about any of the above, and you can just burn off the self-booting DiscJuggler image.
+
+Other Notes:
+- NFL 2K & NBA 2K do not work with RGB cables, the same problem  is present on the original and we were unable to find a fix  for it. If anyone else wants to fix these, be our guest.
+- NFL 2K1 & NBA 2K1 work fine on RGB cables, and all of these  games work fine with a VGA Box.
+- NBA 2K1 & NFL 2K1 support online play through SegaNet and this feature has been tested in our releases.
+- Due to the audio being downsampled, you might want to goto the options menu and turn up the volume settings before tarting a game.
+
+There can only be one! Many warriors tried and only one suceeded:
+
+IS IT LIVE? OR IS IT DREAMCAST? 
+
+Get ready for hardcore hoop-it-up action, coming at you on Sega Dreamcast at a blazing 60 frames per second. Put yourself in center court with high-res 3D graphics and real-life animated crowds cheering and jeering as you lead your team to victory. Ultra-realistic players were produced using over 1,300 motion-captured moves to create the most true-to-life action ever seen in virtual basketball. Slam dunk it with 10 seconds remaining, and watch the expressions of the other players react. Pick out the pros from more than 400 individually modeled players, with bone structures, facial features, and hairstyles matched perfectly to the real stars. So just limber up your clicking fingers, and that ball will be putty in your hands. 
+
+Game Features:
+- 1,300+ motion-captured character animations for the most realistic looking basketball game ever created. 
+- True 3D collisions with complex point-based physics modeling. 
+- High-resolution graphics engine for the most detailed characters to date. 
+- Team playbooks and advanced AI developed in cooperation with actual NBA coaches. 
+- All 29 stadiums accurately modeled in true 3D. 
+- Detailed crowd reacts to the in-game action for a whole new level of immersion. 
+- Complete and accurate game and season statistics to satisfy the most hard-core fan.

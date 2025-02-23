@@ -1,0 +1,69 @@
+Title....: D2
+Origin...: USA/NTSC
+Type.....: .nrg 99min
+Date.....: 30/09/2005
+Ripped...: See note
+
+Release Notes:
+The game has been ripped and tested to be 100% working personally by myself
+(according to the walkthrough I have). Its normal for frequent CD accesses and
+at times slow loading (with blank screens).
+
+The test CDs were burnt with Nero 6.6.0.13 DAO at 4X speed, overburnt to 99
+minutes.
+
+GD 3 is too big to be fitted even on 99min CDR. So it was splitted into two CDRs
+(CD3A & B). You have to save anywhere after Laura's first vision (after the
+first Boss) and before reaching the bridge. Then boot CD3B and continue from the
+saved point. Make sure you never go back into the priest's house or enter the
+musician's room again with CD3B!
+
+                                
+Rip notes (technical):
+*The following notes are a bit technical and is useless to 99% of the users.
+*The info is intended for technical users who know what they are doing and if
+*they found anything wrong with my procedures, they can correct me or perhaps
+*release a ppf.
+                              
+The game is too big to fit even on a 99min CDR. Something have to be
+downsampled:
+
+All the *.AFS have to be downsampled to Mono (22050Hz wont work) to fit the
+disks on 99min CDR. The movies may have to be dwonsampled too.  Its also 
+important to arrange small files and movies (.sfd and .m1v)(and avoid
+.pvm,.stm,.stn sets) so  that they are wriiten to the inner part or a CD
+and big files (animated videos) to the outer part of a CD, or else problems
+will arise (hangs, reset to  dreamcast main menu etc.)
+
+The first disk session have to be LBA 45000. Since the  second disk session
+alone is not big enough for all the data, the first session  has to be filled
+with data too and dummied to the required LBA45000. 
+It is impossible to fit the game on 80min CDRs.
+
+Note: What Belokk have done to his release of disk 1 is ripped the ending movie
+and downsampled *.AFS to mono AND 22050Hz**, But the game seems to be hard coded to 44100Hz, hence the crappy sound and resets when the audio ends before the video.
+
+Disk 1:WORLDEV.AFS,COMMON.AFS downsampled to mono
+Disk 2:WORLDEV.AFS downsampled to mono
+       ZR17D11.M1V downsampled from 1199 to 800kbps 
+Disk 3:WORLDEV.AFS,COMMON.AFS downsampled to mono
+       ZDUMMY.M1V downsampled from 1997 to 800kbps (not really necessary)
+       The GD is too big to fit on one 99min CDR! The NRyyxxx.xxx files and the      
+       movies are distrbuted betweet 2 CDRs, 3A & 3B:
+         NR18xxx.xxx           Musician's House 
+         NR19xxx.xxx           Musician's House  
+         NR20xxx.xxx           Sorceror 
+         NR21xxx.xxx Disk 3A   Priest House
+         NR22xxx.xxx Disk 3A   Musician's room
+         NR23xxx.xxx           Martha's House
+         NR25xxx.xxx Disk 3B   From the bridge onwards
+         ZGM03.SFD   Disk 3A   Laura's first vision
+         ZGM04.SFD   Disk 3B   Laura's second vision
+           Note:All the above descriptions are just my wild guess
+Disk 4:ZOPG.SFD (opening movie) downsampled from 2419 to 1000kbps 
+
+Final Note:
+The images were created with a variation of Echelon's method and hex edited
+directly into Nero format without burning to CDR first. Since these are the
+masters for burning the test CDs, I wouldn't be bothered to convert them to .cdi
+format.

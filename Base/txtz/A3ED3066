@@ -1,0 +1,100 @@
+        Well after the DoTWiN brought u the german version, hes proud
+        to bring u the PAL UK *English* version of Alone in the Dark 4
+        for the famous DC. The original was on 2GD?s, to bring you an 
+        almost complete game (Intro is still ripped), it was necessary
+        to split the 2Gd?s in 4CD?s, see below! Enjoy it!
+         
+          CDInfos:
+
+        The game comes on 4CD?s, below u?ll se whats on which disc and
+        what has been ripped:
+
+          CD1A ALINE: Contains Alines part of the the first GD-Rom, 
+                 Edward is ripped out and the game will freeze if u 
+                 select him to start a new game. The Intro was ripped,
+                 evrything else that belongs to Aline is on this disc, 
+                 also all the movies and sounds in original quality.
+                 Disc Info: 31 * 20MB (gen-ad1a.001 - gen-ad1a.031)
+
+         CD1B EDWARD: Contains Edwards part of the the first GD-Rom, 
+                 Aline is ripped out and the game will freeze if u 
+                 select her to start a new game. The Intro was ripped,
+                 evrything else that belongs to Edward is on this disc, 
+                 also all the movies and sounds in original quality.
+                 Disc Info: 33 * 20MB (gen-ad1b.001 - gen-ad1b.033)
+
+         CD2A ALINE: Contains Alines part of the the second GD-Rom, 
+                 Edward is ripped out and the game will freeze if u 
+                 load a savegame of Edward. Nothing was ripped, exept 
+                 all the data of Edward, that comes on CD2B!
+                 Movies and sounds are untuched and in orig. quality.
+                 Disc Info: 36 * 20MB (gen-ad2a.001 - gen-ad2a.036)
+
+         CD2A EDWARD: Contains Eswards part of the the second GD-Rom, 
+                 Aline is ripped out and the game will freeze if u 
+                 load a savegame of Aline. Nothing was ripped, exept 
+                 all the data of Aline, that comes on CD1B!
+                 Movies and sounds are untuched and in orig. quality.
+                 Disc Info: 37 * 20MB (gen-ad2b.001 - gen-ad2b.037)
+
+          So actually only the Intro was ripped evrything else is there!!
+          And don?t care about swaping its like in then original game,
+          when u have beaten disc1 with Aline or Cranby you either 
+          have to save and swap to the second disc to continue with
+          the same caracter or you can start a new game with the other 
+          caracter, therefore u have to swap to the other disc1,
+          that?s the whole difference. 
+         
+--------------------------------------------------------------------------------------------------------
+         The quest of three old shelves, which could be the key of 
+         a strange and worrying enigma, leds Edward Carnby and Aline 
+         Cedrac on the shadow island.
+         But hardly have they land than they discover mysterious 
+         creatures of evil. On this island where terror reigns, behind 
+         each shadow can be dissimulated uncredible secrets like 
+         atrocious nightmares...
+
+
+
+
+
+
+Используем Alone in the Dark 4 CD2SwapFix *UK/German/French* для исправления проблем с обоими вторыми дисками в игре.
+
+Вот кратко о нём:
+         Well after some time its done the swap on Alone 4 is working 
+         now! This is a little toolbox to fix both 2nd discs of all 
+         4CD Alone in the Dark 4 releases, but its easy to handle: 
+         AITD 4  French Alpax, AITD 4 German GeniuS, AITD 4 UK GeNiuS;
+         When u apply this patch u?ll lose the ending, but after the swap
+         u also can go on with your old CD2?s including the ending.
+
+         Remember: Alpax find the way to swap the discs, but they did 
+         only repacks of the UK and the French CD2. I think its not 
+         necessary to download again 1.2 gigs so I made the fix, hope 
+         you?ll enjoy!!
+
+
+          How it works:
+
+         1. Extract the whole [gen-afix.001] to any of you hardiscs
+            (u?ll get a Dir called "AloneFix" with a sub dir "data" on that hd
+         2. Insert the CD2 you want to fix to your CD-Rom Drive and run 
+            Isobuster.exe to extract all data from your chosen Alone 4 CD2 
+            to your Fix-folder \data (e.g.d:\AloneFix\data) on your harddisk.
+         3. Extract the [AloneFix.zip] to your fix rootdirectory, 
+            (e.g. d:\AloneFix) overwriting old files;
+         4. Run [AloneFix.bat] and wait till the data track is recorded
+         5. Open DiscJuggler and burn gen-afix -session1.iso;
+         6. Now  fire up CDR-Win:
+             Click the 2nd icon from the top left "File Backup & Tools" 
+             For Backup Tool/Operation select: "Record an ISO9660 Image" 
+             For image filename choose gen-afix.iso in the e.g. d:\AloneFix dir
+             Check the following options:
+              Disc type: CDROM-XA             Track Mode: MODE2
+              Speed: What u want              Close Session: YES 
+              Write Postgap: YES              Open new session: NO
+	   
+           Click start button to burn!  
+
+        7. Thats all enjoy and swap disc when you?ll be asked for.

@@ -1,0 +1,172 @@
+Linux on Dreamcast
+A Beginners Guide
+by Adrian O'Grady
+
+I've noticed that quite a few people are looking for a simple guide to Linux on the Dreamcast so I thought I'd put pen to paper (well, fingers to keyboard) and knock up a very simple guide to a few of the features in Dreamcast Linux. I don't pretend to be a Linux expert, just a user who knows how to fiddle with it.
+This is not an official document from the Linux on Dreamcast team. I wont cover using MAME in this document as that requires you having your own roms. These roms don't come with the official distribution and so aren't included on the Disc Juggler image.
+
+Contents
+Requirements
+Burning Linux to CD
+Booting Up Dreamcast Linux
+A Few Simple Commands
+About The Dreamcast Linux File System
+Using PrBoom
+Using vi to Edit Files
+Programming on the Dreamcast
+Using the Coders Cable
+
+Requirements
+The only real requirement is a keyboard. You're not going to get very far without it!
+A VGA box is preferable as the image isn't centered on a TV screen (and hard to read)
+Control pads can be used to play MAME and PrBoom (A Doom port).
+A mouse is nice if you wish to use X Windows.
+If you want to connect you DC Linux box to the outside world, then a broadband adapter or coders cable is required.
+
+Burning Linux to CD
+If you have got this document from dclinux-dj.zip, then you should find a ready to use Disc Juggler image. Simply chose to create a CD from a disc image and point it at dclinux.cdi. Once the CD is ready, stick it in your Dreamcast and away you go.
+
+If you have an official release from the Linux on Dreamcast team (dreamcast-linux-010605.tar.bz2) then installation has a few more steps, but just as easy if you have the right setup.
+
+Enter your *nix (or Unix like in the case of Cygwin) environment and go to the directory containing the dreamcast-linux file. You will need to have a compiled version of Marcus Comstedt's IP Creator (compiling this is beyond the scope of this document at this time) to create the IP.BIN file required to boot the CD. My ip.txt looks like this:
+
+Hardware ID   : SEGA SEGAKATANA
+Maker ID      : SEGA ENTERPRISES
+Device Info   : 0000 CD-ROM1/1
+Area Symbols  : JUE
+Peripherals   : A799F10
+Product No    : T0000
+Version       : V1.000
+Release Date  : 20010911
+Boot Filename : 1ST_READ.BIN
+SW Maker Name : Adrian O'Grady
+Game Title    : Dreamcast Linux
+
+Create the IP.BIN file by using IP Creator as follows:
+        ./makeip ip.txt IP.BIN
+
+Now we need to extract the file so enter the following at the $ or # prompt:
+        bunzip2 dreamcast-linux-010605.tar.bz2
+        tar -xf dreamcast-linux-010605.tar
+        cd dreamcast-linux-010605
+
+Once all the files have been extracted, we need to edit the master.sh file to point at your CD Writer. To find out the device ID of your CD Writer, enter the following at the prompt (Cygwin users will need to download cdrecord and mkisofs from here (Remember to put them in your /bin directory or somewhere that is included in your PATH!)):
+        cdrecord -scanbus
+
+This will bring up a list of all disk devices in your system, you will need to make a note of your CD Writer (for example, mine is 0,4,0). Use your favorite text editor to change the line in master.sh that identifies your CD Writer (CDRECORD="cdrecord dev=0,4,0") by inserting the ID of your CD writer after dev=.
+Now you are ready to begin burning your CD. You simply need to call master.sh with the path to your IP.BIN:
+        ./master ../IP.BIN
+
+Please don't ask me any questions about burning Dreamcast Linux in this manner. I've only provided this information here for experienced users who may want to fiddle with the distribution!
+
+Booting Up Dreamcast Linux
+Place the Dreamcast Linux CD into your Dreamcast and turn on. You should get the usual Sega screen before it displays the eCos/Redboot screen (blue screen with green writing). This screen will stay up for about 10 seconds before it actually starts to load Linux. When it does, you will see a black screen with white writing and a little Penguin in the top left corner. Once Linux has finished loading, you should see a login prompt which looks as follows:
+Debian GNU/Linux testing/unstable dreamcast tty1
+
+dreamcast login:
+
+Simply enter root and press Enter to log on. After a few lines of welcome/warning text, you will be presented with a dreamcast:~# prompt. Welcome to the world of Linux!
+
+A Few Simple Commands
+I wont go into much detail about these commands other than show you a few examples of how to use them. Note: I have included the prompt so as to show exactly what you'd see on the screen, any text you should enter is in bold.
+pwd 	Shows you the present working directory (the directory you're currently in) 	dreamcast:~# pwd
+cd directory 	Changes to the directory specified 	dreamcast:~# cd /
+dreamcast:~# cd /gdrom
+ls [filepattern] 	List all the files in either the current directory or the specified directory. 	dreamcast:~# ls
+dreamcast:~# ls *txt
+ls -l [filepattern] 	Same as before, but gives a more detailed directory list. 	dreamcast:~# ls -l /etc
+mkdir directory 	Creates the specified directory 	dreamcast:~# mkdir foobar
+rmdir directory 	Removes the specified directory 	dreamcast:~# rmdir foobar
+more filename 	Displays the contents of a file.
+Space = Next Page
+q = Quit 	dreamcast:~# more /gdrom/master.sh
+startx 	Loads up X Windows 	dreamcast:~# startx
+xdm 	Loads up X Windows but with a login prompt 	dreamcast:~# xdm
+df 	Display how much disk space you have used 	dreamcast:~# df
+which programname 	Tells you which executable will get called (incase you have more than on of the same name) 	dreamcast:~# which startx
+uname [-amnrspv] 	Displays information about the OS version and the machine 	dreamcast:~# uname
+dreamcast:~# uname -a
+dreamcast:~# uname -nv
+shutdown -h now 	Shuts down your Linux system (not required though! :) 	dreamcast:~# shutdown -h now
+
+Most commands have basic help for them which can be found by adding --help to the end of a command. You can also call up previously entered commands by pressing Up and Down on the keyboard. Pressing Shift + Page Up/Down scrolls the text screen.
+
+About the Dreamcast Linux File System
+The standard "out of the box" version of Dreamcast Linux loads up using a ~2mb ramdisk. This means you haven't got to much space to save your files on the Dreamcast (The ramdisk is lost after the Dreamcast is turned off anyway). However, these are the important directories (well, of interest anyway) in this version of Linux.
+/root 	Your home directory (also know as ~). You will probably save any work you do here.
+/etc 	Most of the config files for the programs included in the distribution live here.
+/gdrom 	The disc in the GD-Rom drive (this can only be the Dreamcast Linux disc as this version wont allow you to unmount the disc)
+/bin
+/sbin
+/usr/bin
+/usr/sbin 	Most of the programs and utilities live in these directories. If you want to quickly see what programs are on the disc, just have a look in here.
+/usr/games 	A few games to pass the time (mostly text based)
+/usr/doc 	A collection of Linux documents (I'm not sure how useful any of this stuff is for Dreamcast Linux)
+
+Some directories with programs in them might not be included in your PATH. In order to execute them, simply change to the directory they're in and add ./ to the front of their name. eg dreamcast:/usr/bin/X11# ./startx
+
+Using PrBoom
+First, you must set the frame buffer depth. Do this by typing fbset -depth 16
+Then launch PrBoom by typing prboom
+
+Sometime, this fails on the first attempt. If this happens, just set the frame buffer depth once more and try again.
+
+This version is quite slow on the Dreamcast and can sometimes appear to lock up while the GD-Rom drive goes mad. I've only tried playing it with the keyboard although there is a joystick option, so it may work with the control pad as well.
+
+Using vi to Edit Files
+This is a very, very quick guide to vi and so only covers the very, very basics. Search on the net if you want more information on vi.
+
+To open or create a file with vi, type vi, followed by the filename:
+        dreamcast:~# vi test.txt
+
+Once vi has loaded, you need to put it into input mode before you can type anything. Do this by pressing 'i'. Once in input mode, you can type just as you would in most other text editors and move the cursor around using the cursor keys.
+
+When you've finished editing your document, press Esc to leave input mode. You can now either save your file and exit by typing ZZ (that's Shift + zz) or exit without saving changes by typing :q!
+
+Programming on the Dreamcast
+This version of Dreamcast Linux comes with a fully featured C/C++ compiler for the Dreamcast! You are limited by the size of the ram disk though. Just to get you started, here's that standard "Hello World" program.
+
+First we need to edit our source code:
+        dreamcast:~# vi hello.c
+
+Then we need to enter the following text:
+#include <stdio.h>
+
+main()
+{
+    printf("Hello World!!\n\n");
+    return 0;
+}
+
+Once that is saved, we can compile it:
+        dreamcast:~# gcc hello.c -o hello
+
+After a bit of GD-Rom activity, you should be able to run your program like so:
+        dreamcast:~# ./hello
+        Hello World!!
+
+        dreamcast:~#
+
+Congratulations! You may have just written your first Dreamcast program. :)
+If you got any errors, or it just didn't work, check what you typed in again and make sure you understand my instructions for using vi.
+
+Using the Coders Cable
+You can use your coders cable to connect to the Dreamcast from your PC. Open up your comms software (e.g. Hyper Terminal) and set it to 115200bpp(8-N-1) and once the Dreamcast has booted, you should get a login screen (use root to login, you may have to press a couple of keys to get the screen to appear). Once logged in, you can do just about anything you can on the Dreamcast other than use X Windows or PrBoom.
+
+As I don't have a broadband adapter, I use my coders cable to save data from my Dreamcast. However, I'm too lazy to set it up properly, so I use the following method to save data to my PC.
+        dreamcast:~# gzip stuff.dat
+        dreamcast:~# uuencode stuff.dat.gz stuff.dat.gz.uue > stuff.dat.gz.uue
+        dreamcast:~# more stuff.dat.gz.uue
+
+I then just copy the output from my comms package into a text file and save it on my hard disk.
+To send the file back to the Dreamcast I first tell the Dreamcast to copy any input to a file:
+        dreamcast:~# cat > stuff.dat.gz.uue
+
+Next, I copy the data from my text file into my comms package and press Ctrl + C (on a new line) when I've sent it all. Now to get it back into a usable form.
+        dreamcast:~# uudecode stuff.dat.gz.uue -o stuff.dat.gz
+        dreamcast:~# gunzip stuff.dat.gz
+        dreamcast:~# rm stuff.dat.gz.uue
+
+I should now have my file stuff.dat back in a usable form.
+
+It is possible to set up Linux to use the serial port as a network device so that I could get a proper network connection to my PC using the Windows Dial Up Server, but as I've said, I'm too lazy to bother finding out how. But if I did, my Dreamcast Linux box would become a whole lot more useful as I would be able to mount a partition I can write to using NFS. 

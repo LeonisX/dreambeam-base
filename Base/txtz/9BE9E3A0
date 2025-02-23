@@ -1,0 +1,39 @@
+Испанская версия игры.
+Если кому попадётся - будете знать как её сделать из английской:
+
+INSTRUCCIONES:
+
+     1. Extrae el contenido de "laillas-aitd-addon.rar" en tu disco duro.
+
+     2. Graba con el DISCJUGGLER la imagen "laillas-boot.cdi" que encontrarбs
+        en la carpeta "BOOT". Con esto creas la primera sesion.
+
+     3. Copia el contenido del CD1 del ALONE en la carpeta CD1.
+        Todo MENOS LA CARPETA "XA".
+
+        Nota: Si aъn no has quemado la ISO puedes extraer los ficheros con el
+        programa "CDMAGE".
+
+     4. Ejecuta "CD1.BAT" desde MS-DOS. Esto te crearб la nueva imagen con las
+        voces en espaсol.
+
+     5. Ahora abre el CDR-Win:
+          Clica en el icono "File Backup & Tools" 
+          Elige en Backup Tool/Operation select: "Record an ISO9660 Image" 
+          En la seleccion de imagen escoje ( DATA1.ISO )
+          Asegurate que estas opciones esten puestas:
+              Disc type: CDROM-XA             Track Mode: MODE2
+              Speed: What u want              Close Session: YES 
+              Write Postgap: YES              Open new session: NO
+	   
+         Clica START para grabar!  
+
+     6. Disfruta de la mejor RELEASE del ALONE IN THE DARK para DC.
+        Y recuerda quien la hizo! LAILLAS!!
+   
+      
+INSTRUCCIONES PARA EL CD2:
+
+     Repite todos los pasos anteriores, pero usando los datos del CD2 del 
+     Alone, el CD2.bat y en la seleccion de imagen escoje ( DATA2.ISO ).
+     Es lуgico, no? =)

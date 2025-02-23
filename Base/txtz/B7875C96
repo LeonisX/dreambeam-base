@@ -1,0 +1,133 @@
+Title....: Skies of Arcadia
+Date.....: 20/11/2005
+Origin...: USA/NTSC
+Ripped...: See note
+
+Disk info:
+- ----------------------------- -
+
+http://www.sega.co.jp/dc/db/000904.html
+http://www.gamefaqs.com/console/dreamcast/data/197237.html           
+
+
+Release Notes                                             
+Skies of Arcadia is one of the best RPG for the Dreamcast. So far, only Echelon has released a complete rip of the PAL version of the game. However, the PAL game does not support VGA mode and Echelon's release pauses every now and then while data is being accessed from the CDRs (Imagine pauses before and after every random battle -the ridiculously high occurrence of the battles itself is annoying enough :(  ) Other releases are either nuked or restrict you from visiting previous places and disk 2 was never released.
+
+To enjoy the game in its original VGA glory (and in English), I ripped the US version of the game and splitted the 2 GDs into 4x99min CDRs (there is nothing that can be downsampled). As pointed out by Echelon, splitting the game is not easy and not efficient. You can't visit certain places with a certain CDR ! 
+If you dont have a VGA cable and don't mind the loading/decompressing pauses,
+the Echelon release is probably still the best release out there.
+ 
+The nature of the game that you can travel around anywhere (especially later in the game) and visit any place at any time, makes it really difficult to determine the split points. I TRIED to remove only scenes that will never be seen again and then mazes that you have visited (you dont want to run through
+the mazes again or do you?) so that you may travel around "MORE" freely (See notes on disks).You can still visit/land on those places, Shopping and recruit your crew. However many scenes contain bits of other scenes and maybe reused elsewhere and its impossible to test the game in every possible route, I just use a walkthrough for testing with occassional revisiting places. I can only
+pray that I didn't miss anything:
+
+Disk 1A:
+No Internet access (can access from Disk 1B)
+Play upto Esparanze 
+Save before going into the Dark Rift and switch to Disk 1B.
+  
+Disk 1B
+Totally free while the game itself allows, even Internet access. 
+(in fact, you may begin playing as far back as Grand Fortress)
+
+Disk 2A
+Totally free while the game itself allows,
+Save before going to the Great Silver Shrine.
+
+Disk 2B
+DO NOT enter the following mazes(Landing is OK):
+    Temple of Pyrynn (Red Giga)
+    Moon Stone Mtn   (Green Giga)
+    Rixis            (Green Giga)
+    Daccat Island
+    Mount Kazai      (Blue Giga)
+    Glacia           (Purple Giga)
+    
+If you really want to re-visit these places, save in open ocean and switch back to Disk 2A (no, you can't save on disk 2 and switch back to disk 1, finish the maze, then save and switch....)
+              
+              
+Rip notes (technical)                                            
+*The following notes are a bit technical and is useless to 99% of the users. The info is intended for technical users who know what they are doing and if they found anything wrong with my procedures, they can correct me or perhaps release a ppf.
+
+Most of the text that appeared in the game can be found in the me*.sct files and these files also show what other files they are linked. I tried to build a map of how these files are linked (yep, there are hundreds of *.sct !) which helped me to determine what may go and what should be kept in a certain CDR.
+There are dead ends in the map which means they are called from or return to free Ocean travel (controlled propably by 1st_read.bin or other files.)
+To make thing simpler, only those that were removed from a particular CD are listed as follow:
+
+Disk 1
+  Total size 961M in 3491 files
+  Linked 522 files containing 338 duplicates. (44.0M to 16.2M saving 27.8M)
+  Internet related files 13M
+  The main CG files are found in \field\A*.MLD. There are a total of 579M in 757 files and these are the main targets for splitting.
+
+  Disk 1A
+                    All Internet related files    
+      A019		Yafutoma 
+      A020          Tenkou  				(Yafutoma)
+      A121          Mount Kazai              (Yafutoma)
+      A122          Dark Rift
+      A232          King's place - Yafutoma  (Yafutoma)
+      A237          Ilchymis 				(above clounds - after Yafutoma)
+      A238          Ryu-kan's isle 		(beyond Dark Rift)
+      A239          Hamachou                 (above clounds - Dark Rift)
+      A247          Ship battles in Yafutoma 
+      A513          Ship battle: red bird	(above clounds)
+      A523          Ship battle: gaint squid (beyond Dark Rift)
+      A524          Ship battle: Anguila     (Dark Rift)
+      A525          Ship battle: Tenkou ship (Yafutoma)
+      A527		Ship battle: giantlooper	(beyond Rifts)
+      A530          Ship battle: Vigoro		(Yafutoma)
+      A531          Ship battle: blue giga   (Yafutoma)
+
+  Disk 1B
+      this disk is easy, compare those visited places in Disk 1A with Disk 2 and remove those that are not present in Disk 2(past, unwanted scenes):
+      
+      A002		Pirate Island
+      A004          Sailor's Island
+      A005          Valua
+      A008          Maramba
+      A010          Horteka
+      A013          Nasrad
+      A103          Shrine Island 
+      A107		Valua Upper City
+      A109          Temple of Pyrynn
+      A111          Moon Stone Mtn
+      A112          Rixis
+      A204          Red Giga battles
+      A215          Green Giga battles
+      A220          Red Giga battles
+      A241          Green Giga battles
+
+Disk 2
+  Total 947M in 3200 files
+  Linked 563 files containing 363 duplicates (51.3M to 19.6M saving 31.7M)
+  
+  Removed:
+  Disk 2A
+      A028          Great Silver Shrine
+      A130          Hydra
+      A131          Soltis
+      A249          Awaken Zelo
+      A544          Ship battle: Galcian's Elite vessel
+      A545          Ship battle: Hydra
+      A547          Ship battle: Zelo
+      A580          Ship battle: Soltis guard
+      A583          Ship battle: Soltis guard
+
+  Disk 2B    
+      A109C-E       Temple of Pyrynn maze (A109G is the new entrance)
+      A111B-C       Moon Stone Mtn maze
+      A112B-C       Rixis maze
+      A115B-C       Daccat Island maze
+      A121B-D       Mount Kazai maze
+      A123B-D       Glacia maze
+      A125B-C       Maw of Tartas final room/ground level before seal broken.
+      A126BJ,CJ,DJ  Scenes in Dangral Island  
+      A127AJ,BJ     Sonar,Battles in Vortex
+      A244AI        meet Yeligar  
+      A246AI        Scene after defeated Yeligar 
+      A535          Ship battle: Yeligar
+      A540          Ship battle: DeLoco deep sea
+      A541          Ship battle: DeLoco deep sea
+      A573          Ship battle: Blackbeard II
+
+Like all of my previous releases, the images were created with a variation of Echelon's method and hex edited directly into Nero format without burning to CDR first.

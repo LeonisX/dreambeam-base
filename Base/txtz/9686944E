@@ -1,0 +1,27 @@
+Год выпуска: 2008
+Жанр: Arcade Emulator
+Разработчик: Chui
+Платформа: Dreamcast
+Носитель: CDI
+Язык интерфейса: ENG
+Мультиплейер: 4x
+Описание: Эмулятор MAME (Multi Arcade Machine Emulator) для игровой консоли Sega Dreamcast.
+В данной сборке представлено 1217 игр с различных игровых автоматов, таких как:
+- MAME4ALL/Aged: PACMAN, GALAXIAN, SCRAMBLE, CCLIMBER, PHOENIX, NAMCO, UNIVERS, NINTENDO, MIDW8080, MIDWZ80, MEADOWS, ASTROCDE, IREM, OLDTAITO, QIXTAITO, TAITO, WILLIAMS, CAPBOWL, GREMLIN, VICDUAL, SEGAV, SEGAR, ZAXXON, SYSTEM8, BTIME, DATAEAST, DEC8, KONAMI, EXIDY, KANGAROO, MISSILE, ATARIBW, ATARSY2, ROCKOLA, BERZERK, GAMEPLAN, STRATVOX, ZCCARIA, UPL, CINEMAR, THEPIT, GOTTLIEB and VALADON.
+- MAME4ALL/Classic: TAITO2, CENTIPED, ATARIVG, NEMESIS, MCR, TEHKAN, DEC0, ATARI, TECHNOS, CAPCOM, ATARISY1, SEIBU, NICHIBUTSU and OTHERS.
+- MAME4ALL/Gold: CPS1, SYSTEM16 and TMNT. 
+
+Особенности Эмулятора:
+MAME GP2X adaptation to SDL for Windows, GNU/Linux and Dreamcast.
+FAME Motorola 68000 core.
+New FAZE Zilog Z80 core.
+Around 1000 games supported.
+MAME4ALL is split 3 parts: Aged, Classic and Gold.
+Previous menu for choosing MAME4ALLs.
+Autoframeskip for real speed.
+4 players supported.
+Hardware scaled blitter.
+Under PAL dreamcasts ask 60-50Hz selection.
+Artwork by DarkSlain.
+Two sound methods: normal and accurate.
+Complete menu: CPUs speed, sound and joypad configuration.

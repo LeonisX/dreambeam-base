@@ -1,0 +1,31 @@
+Game.....: Dave Mirra Freestyle USA CDDA Fix (C) Acclaim
+
+Origin...: USA - NTSC-Filename.....: E-DMBFIX.ZIP
+Released.: January 22nd, 2001 -Format.......: -
+Platform.: Sega Dreamcast (DC)-CD(s)........: -
+
+- --- Release Notes ------------------------------------------------>
+
+Finally here's the fix for the CDDA bug in our Dave Mirra release
+(this one's not for yesterdays PAL release by Paradiso, which doesn't
+play CDDA at all).
+
+We don't assume you still got the CDI so we didn't include a PPF fix
+for this game, just a working 1ST_READ.BIN. With that and your old
+burned CD you need to remaster your working copy of Dave Mirra.
+(If you still haven't burned Dave Mirra and got the CDI, you can
+extract the data files out of the CDI with tools like the new CDmage).
+
+Here's how todo:
+----------------
++ Run the included UNPACK.EXE to get the CDDA tracks (we included
+them in the fix because its not that easy to read them off the
+burned CD with certain writers).
++ Copy the CD's data contents with a filemanager to your HD
++ From here on follow the steps mentioned in our Selfboot-Guide
+for CDDA games, a fixed 1ST_READ.BIN and a clean IP.BIN is
+provided in this release.
+
+Note: The manual playing in this game is still pretty screwy - Live
+with it. This game's CDDA routines are not the standard and you
+should be thankful we spent time to make any kind of fix for it.

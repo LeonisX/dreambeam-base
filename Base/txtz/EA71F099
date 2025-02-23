@@ -1,0 +1,17 @@
+This is a two file Nero image of the GameShark/Action Replay.
+To burn this image, follow the simple instructions.
+
+[1] Open Nero 5.x.x.x (might work in 4, but why risk a coaster?).
+[2] Close any sub-windows that may appear.
+[3] Go to the 'File' menu and select the 'Burn Image...' option.
+[4] Open the Track 1 .wav file.
+[5] Set 'Image Type' to 'Audio', hit 'OK'.
+[6] Hit 'OK' to continue.
+[7] Hit 'Ignore'.
+[8] Make sure 'Finalize' and 'Disc-At-Once' are NOT checked.
+[9] Burn Image. Put the cd you just burned back in the cdr drive.
+[10] Go to the 'File' menu and select the 'Burn Image...' option.
+[11] Open the Track 2 .nrg file.
+[12] Make sure 'Finalize' IS checked.
+[13] Burn Image.
+[14] Enjoy.

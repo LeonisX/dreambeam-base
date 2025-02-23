@@ -37,13 +37,64 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 23.02.2023
+
+Переименования:
+
+| Прежнее название                                                    | Новое название                                                           |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------|
+| King of Fighters '99, The - Evolution (Rus) (Pinochet)              | King of Fighters '99, The - Evolution (Rus) (Pinachet Game)              |
+| King of Fighters '99, The - Evolution (Rus) (Pinochet) (Ps2Sega.ru) | King of Fighters '99, The - Evolution (Rus) (Pinachet Game) (Ps2Sega.ru) |
+
+
+Новые образы игр:
+
+| Название                                                                               | Автор                   |
+|----------------------------------------------------------------------------------------|-------------------------|
+| Advanced Daisenryaku 2001 (Rus) (Pinachet Game) (Bad)                                  | Sintakens, psxplanet.ru |
+| Dino Crisis (Rus) (ViT Co. + AKELLA)                                                   | ViToTiV, psxplanet.ru   |
+| EGG - Elemental Gimmick Gear (Rus) (ViT Co.)                                           | ViToTiV, psxplanet.ru   |
+| Godzilla Generations - Maximum Impact (Rus) (RGR)                                      | Warehouse of Games      |
+| Half Life with Blue Shift (Rus) (RGR) (Alt)                                            | Warehouse of Games      |
+| Heretic (Rus) (RGR) (Alt)                                                              | Warehouse of Games      |
+| Nightmare Creatures II (Rus) (RETROGAMING) (GDI)                                       | e2e41, psxplanet.ru     |
+| Omikron - The Nomad Soul (Rus) (7Wolf) (GDI)                                           | e2e41, psxplanet.ru     |
+| Phantasy Star Online Ver. 1 (Rus) (RGR) (Bad)                                          | Warehouse of Games      |
+| Soldier of Fortune (Disc 1 of 2) (Rus) (Playbox)                                       | Warehouse of Games      |
+| Soldier of Fortune (Disc 2 of 2) (Rus) (Playbox)                                       | Warehouse of Games      |
+| Surf Rocket Racers (Rus) (Vector)                                                      | Warehouse of Games      |
+| Prince of Persia - Arabian Nights (Rus) (Webcoll + Vector + RGR)                       | Vencedor, psxplanet.ru  |
+| Prince of Persia - Arabian Nights (Rus) (Webcoll + Vector + RGR) (GDI)                 | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica (Disc 1 of 2) (Rus) (RGR + Team Raccoon) (v20241020)   | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica (Disc 2 of 2) (Rus) (RGR + Team Raccoon) (v20241020)   | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica X (Rus) (Disc 1 of 2) (RGR + Team Raccoon) (v20241020) | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica X (Rus) (Disc 2 of 2) (RGR + Team Raccoon) (v20241020) | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica X (Rus) (Disc 1 of 2) (RGR + Team Raccoon) (v20241101) | Vencedor, psxplanet.ru  |
+| Resident Evil - CODE - Veronica X (Rus) (Disc 2 of 2) (RGR + Team Raccoon) (v20241101) | Vencedor, psxplanet.ru  |
+| Resident Evil 2 (Disc 1 of 2) (Rus) (Crazy Owl Studio + Team Raccoon v2.0)             | Vencedor, psxplanet.ru  |
+| Resident Evil 2 (Disc 2 of 2) (Rus) (Crazy Owl Studio + Team Raccoon v2.0)             | Vencedor, psxplanet.ru  |
+| Resident Evil 2 (Disc 1 of 2) (Rus) (Crazy Owl Studio + Team Raccoon v2.0) (GDI)       | Vencedor, psxplanet.ru  |
+| Resident Evil 2 (Disc 2 of 2) (Rus) (Crazy Owl Studio + Team Raccoon v2.0) (GDI)       | Vencedor, psxplanet.ru  |
+| Tomb Raider - The Last Revelation (Rus) (Kudos) (Fixed)                                | Sintakens, psxplanet.ru |
+| Tomb Raider - The Last Revelation (Rus) (ViT Co. + Noviy disk)                         | ViToTiV, psxplanet.ru   |
+| Tony Hawk's Pro Skater 2 (Rus) (Kudos) (Fixed)                                         | Sintakens, psxplanet.ru |
+
+Advanced Daisenryaku 2001 (Rus) (Pinachet Game) (Bad) - битый файл `\realbg\_af_toshi_g_core_w.pvr`
+
+Half Life with Blue Shift (Rus) (RGR) (Alt) - различия в `barney\pak0.pak` и `valve\pak0.pak`
+
+Heretic (Rus) (RGR) (Alt) - имеет скорее всего ненужный файл `zzdummy.dat`
+
+Phantasy Star Online Ver. 1 (Rus) (RGR) (Bad) - битый файл `quest\quest09_s.bin`
+
+
 ### 22.02.2025
 
 Переименования:
 
 | Прежнее название                | Новое название                        |
 |---------------------------------|---------------------------------------|
-| World War 2 (Rus) (RGR)         | World War II (Rus) (RGR)              |
+| World War 2 (Rus) (RGR)         | Advanced Daisenryaku 2001 (Rus) (RGR) |
 | European Super League (Rus) (-) | European Super League (Rus) (Playbox) |
 | Illbleed (Rus) (-)              | Illbleed (Rus) (RGR) (Alt)            |
 

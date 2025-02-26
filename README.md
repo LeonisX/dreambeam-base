@@ -36,8 +36,72 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
+### 26.02.2025
 
-### 23.02.2023
+Удалены дубликаты:
+
+todo посмотреть что там с файлами, смотрю что месиво
+
+2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) (Alt)      2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) [!]
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt2)          Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) [!]
+Draconus - Cult of the Wyrm (Disc 2 of 2) (Rus) (Kudos)                 Draconus - Cult of the Wyrm (Disc 2 of 2) (Rus) (Kudos) [!]
+Godzilla Generations - Maximum Impact (Rus) (Kudos) (Alt)               Godzilla Generations - Maximum Impact (Rus) (Kudos) [!]
+Hidden & Dangerous (Rus) (Vector) (Alt)                                 Hidden & Dangerous (Rus) (Vector) [!]
+Resident Evil 2 (Disk 1 of 2) (PAL-E) (Eng)                             Resident Evil 2 (Disc 1 of 2) (PAL-E) (Eng) (Kalisto)
+Taxi 2 (Rus) (Kudos) (Alt)                                              Taxi 2 (Rus) (Kudos) [!]
+Maximum Pool (Rus) (Kudos) (Alt)                                        Maximum Pool (Rus) (Kudos) [!]
+Tomb Raider - Chronicles (Rus) (Vector) (Alt)                           Tomb Raider - Chronicles (Rus) (Vector) [!]
+
+
+todo disK -> disc
+
+    //todo перебрать, сравнить визуально, может новая утилита неправильно что-то считает (что врядли)
+    //2-in-1 European Super League, NBA Hoopz (Rus) (Kudos) == 2-in-1 NBA Hoopz, European Super League (Rus) (Kudos)
+    //Caesars Palace - Special Edition (Rus) (Kudos) == Caesars Palace 2000 - Millennium Gold Edition (Rus) (Kudos)
+    //Millenium Soldier (Rus) (Vector) [!] == Millenium Soldier - Expendable (Rus) (Vector) (Alt)
+
+    //Urban Chaos (Non-Rus) (Studia Max) == Urban Chaos (PAL-E) (Eng) (-)
+    //D2 (Disc 1 of 4) (NTSC-U) (Eng) (Hykan) (Alt) == D2 (Disc 1 of 4) (NTSC-U) (Eng) (Hykan) [!]
+    //D2 (Disc 3a of 4) (NTSC-U) (Eng) (Hykan) (Alt) == D2 (Disc 3a of 4) (NTSC-U) (Eng) (Hykan) [!]
+    //Shenmue (Disc 1 of 3) (Eng) (Kudos) == Shenmue (Disc 1 of 3) (PAL-E) (Eng) [!]
+    //Shenmue (Disc 2 of 3) (Eng) (Kudos) == Shenmue (Disc 2 of 3) (PAL-E) (Eng) [!]
+    //Shenmue (Disc 3 of 3) (Eng) (Kudos) == Shenmue (Disc 3 of 3) (PAL-E) (Eng) [!]
+
+Переименования
+
+2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos)
+2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) [!]
+
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt) [!] (Bad ALLiGaToR)
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt) (Bad)
+
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos)
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) [!]
+
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt3)
+Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt2)
+
+Maximum Pool (Rus) (Kudos)
+Maximum Pool (Rus) (Kudos) [!]
+
+Resident Evil 2 (Disk 2 of 2) (PAL-E) (Eng)
+Resident Evil 2 (Disc 2 of 2) (PAL-E) (Eng) (Kalisto)
+
+Taxi 2 (Rus) (Kudos)
+Taxi 2 (Rus) (Kudos) [!]
+
+### 24.02.2025
+
+Armada (Rus) (Nota) (GDI)
+Dino Crisis (Rus) (ViT Co. + AKELLA) (GDI)
+Dragon Riders - Chronicles of Pern (Rus) (Vector + Fargus) (GDI)
+EGG - Elemental Gimmick Gear (Rus) (ViT Co.) (GDI)
+Legacy of Kain - Soul Reaver (Rus) (GamesVoice) (GDI)
+Resident Evil - CODE - Veronica (Disc 1 of 2) (Rus) (RGR + Team Raccoon) (v20220902) (GDI)
+Resident Evil - CODE - Veronica (Disc 2 of 2) (Rus) (RGR + Team Raccoon) (v20220902) (GDI)
+Spider-Man (Rus) (Fargus) (For CD)
+
+### 23.02.2025
 
 Переименования:
 

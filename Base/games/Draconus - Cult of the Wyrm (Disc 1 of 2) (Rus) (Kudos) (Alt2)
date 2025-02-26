@@ -3308,9 +3308,9 @@ die2\dc_sounds\music\fdbkgrnd.str [657408 bytes] - 3A2C4E11
 die2\dc_sounds\music\fdfight.str [1574912 bytes] - 4D397053
 die2\dc_sounds\music\foresta.str [5507072 bytes] - 3E725B03
 die2\dc_sounds\music\forestb.str [5376000 bytes] - C0DA42D1
-die2\dc_sounds\music\forestc.str [5244928 bytes] - 13B322A2
-die2\dc_sounds\music\forestd.str [5769216 bytes] - C7C362F0
-die2\dc_sounds\music\forestx.str [5769216 bytes] - 0902980F
+die2\dc_sounds\music\forestc.str [5244928 bytes] - AB78CD44
+die2\dc_sounds\music\forestd.str [5769216 bytes] - 2BC9415F
+die2\dc_sounds\music\forestx.str [5769216 bytes] - D7968B1C
 die2\dc_sounds\music\fxbkgrnd.str [1837056 bytes] - 55C4D6A6
 die2\dc_sounds\music\fxfight.str [919552 bytes] - 106D2AF0
 die2\dc_sounds\music\mabkgrnd.str [4851712 bytes] - E6F5E0CF
@@ -3332,7 +3332,7 @@ die2\dc_sounds\music\swampa.str [6178816 bytes] - 982E3B56
 die2\dc_sounds\music\swampb.str [5916672 bytes] - CAB512EF
 die2\dc_sounds\music\swampc.str [5916672 bytes] - 482903EB
 die2\dc_sounds\music\swampd.str [5916672 bytes] - 87EB7B64
-die2\dc_sounds\music\swampx.str [6440960 bytes] - 1D27381E
+die2\dc_sounds\music\swampx.str [6440960 bytes] - C3A0A357
 die2\dc_sounds\music\title.str [5769216 bytes] - ACE7F742
 die2\dc_sounds\spells\armorblink.str [83968 bytes] - 6B4BBFB1
 die2\dc_sounds\spells\armorcast.str [83968 bytes] - ED3A3D4A

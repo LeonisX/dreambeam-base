@@ -37,6 +37,16 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+
+### 27.02.2025
+
+Переименования:
+
+| Прежнее название                                    | Новое название                                      |
+|-----------------------------------------------------|-----------------------------------------------------|
+| 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (BAD) | 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (BAD) |
+
+
 ### 26.02.2025
 
 Удалены дубликаты:
@@ -69,21 +79,21 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Переименования:
 
-| Прежнее название                                                    | Новое название                                                           |
-|---------------------------------------------------------------------|--------------------------------------------------------------------------|
-| 2-in-1 European Super League, NBA Hoopz (Rus) (Kudos) | 2-in-1 European Super League, NBA Hoopz (Rus) (Kudos) [!] |
-| 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) | 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) [!] |
-| Caesars Palace 2000 - Millennium Gold Edition (Rus) (Kudos) | Caesars Palace 2000 - Millennium Gold Edition (Rus) (Kudos) [!] |
+| Прежнее название                                                                  | Новое название                                                      |
+|-----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| 2-in-1 European Super League, NBA Hoopz (Rus) (Kudos)                             | 2-in-1 European Super League, NBA Hoopz (Rus) (Kudos) [!]           |
+| 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos)                      | 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) [!]    |
+| Caesars Palace 2000 - Millennium Gold Edition (Rus) (Kudos)                       | Caesars Palace 2000 - Millennium Gold Edition (Rus) (Kudos) [!]     |
 | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt) [!] (Bad ALLiGaToR) | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt) (Bad) |
-| Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) [!] |
-| Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt3) | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt2) |
-| Maximum Pool (Rus) (Kudos) | Maximum Pool (Rus) (Kudos) [!] |
-| Millenium Soldier - Expendable (Rus) (Vector) (Alt) | Millenium Soldier - Expendable (Rus) (Vector) (Alt) [!] |
-| Resident Evil 2 (Disk 2 of 2) (PAL-E) (Eng) | Resident Evil 2 (Disc 2 of 2) (PAL-E) (Eng) (Kalisto) |
-| Shenmue (Disc 1 of 3) (Eng) (Kudos) | Shenmue (Disc 1 of 3) (Non-Rus) (Kudos) [!] |
-| Shenmue (Disc 2 of 3) (Eng) (Kudos) | Shenmue (Disc 2 of 3) (Non-Rus) (Kudos) [!] |
-| Shenmue (Disc 3 of 3) (Eng) (Kudos) | Shenmue (Disc 3 of 3) (Non-Rus) (Kudos) [!] |
-| Taxi 2 (Rus) (Kudos) | Taxi 2 (Rus) (Kudos) [!] |
+| Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos)                           | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) [!]         |
+| Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt3)                    | Draconus - Cult of the Wyrm (Disc 1 of 2) (Rus) (Kudos) (Alt2)      |
+| Maximum Pool (Rus) (Kudos)                                                        | Maximum Pool (Rus) (Kudos) [!]                                      |
+| Millenium Soldier - Expendable (Rus) (Vector) (Alt)                               | Millenium Soldier - Expendable (Rus) (Vector) (Alt) [!]             |
+| Resident Evil 2 (Disk 2 of 2) (PAL-E) (Eng)                                       | Resident Evil 2 (Disc 2 of 2) (PAL-E) (Eng) (Kalisto)               |
+| Shenmue (Disc 1 of 3) (Eng) (Kudos)                                               | Shenmue (Disc 1 of 3) (Non-Rus) (Kudos) [!]                         |
+| Shenmue (Disc 2 of 3) (Eng) (Kudos)                                               | Shenmue (Disc 2 of 3) (Non-Rus) (Kudos) [!]                         |
+| Shenmue (Disc 3 of 3) (Eng) (Kudos)                                               | Shenmue (Disc 3 of 3) (Non-Rus) (Kudos) [!]                         |
+| Taxi 2 (Rus) (Kudos)                                                              | Taxi 2 (Rus) (Kudos) [!]                                            |
 
 
 ### 24.02.2025

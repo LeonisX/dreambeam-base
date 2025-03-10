@@ -1,2 +1,0 @@
-Note: What Belokk have done to his release of disk 1 is ripped the ending movie
-and downsampled *.AFS to mono AND 22050Hz**, But the game seems to be hard coded to 44100Hz, hence the crappy sound and resets when the audio ends before the video.

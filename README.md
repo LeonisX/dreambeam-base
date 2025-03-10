@@ -37,6 +37,27 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 10.03.2025
+
+Переименования:
+
+| Прежнее название                              | Новое название                                            |
+|-----------------------------------------------|-----------------------------------------------------------|
+| Dreamcast VCD Player by Xing Hong (Rus) (RGR) | Dream VCD Player (Rus) (RGR)                              |
+| Dreamcast VCD Player (Rus) (Kudos)            | 2-in-1 Dream VCD Player Pro (Rus), GypPlay (Eng) (Kudos)  |
+
+Удалены неверные образы игр (некоторые файлы не просканированы):
+
+- 2-in-1 DreamVCD Player Pro, GYP Player (Kudos)
+- 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos)
+- Exhibition of Speed (Rus) (Eng) (Kudos)
+- Game Guru (Rus) (Vector)
+- Game Guru Gold 1 (Rus) (Vector)
+- Sega Bass Fishing (NTSC-U) (Eng) (Sega)
+- Sega Bass Fishing (Rus) (RGR)
+- Symba's Game Guru 2 (Rus) (-) [!]
+
+
 ### 09.03.2025
 
 Удалён неверно снятый образ: 18-in-1 DreamSNES (PAL-E) (Eng) (Homebrew) (by AlexDC)
@@ -54,7 +75,6 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 ### 26.02.2025
 
 Удалены дубликаты:
-
 
 | Дубликат                                                           | Удалён в пользу этой версии                                      |
 |--------------------------------------------------------------------|------------------------------------------------------------------|

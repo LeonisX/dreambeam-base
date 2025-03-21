@@ -37,7 +37,20 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
-TODO добавить в текстовый файл
+### 22.03.2025
+
+Новые образы игр:
+
+| Название                                                          | Автор              |
+|-------------------------------------------------------------------|--------------------|
+| Alone in the Dark 4 - The New Nightmare (Disc 1 of 4) (Rus) (RGR) | psxplanet.ru       |
+| Alone in the Dark 4 - The New Nightmare (Disc 2 of 4) (Rus) (RGR) | psxplanet.ru       |
+| Alone in the Dark 4 - The New Nightmare (Disc 3 of 4) (Rus) (RGR) | psxplanet.ru       |
+| Alone in the Dark 4 - The New Nightmare (Disc 4 of 4) (Rus) (RGR) | psxplanet.ru       |
+| Bomberman Online (Rus) (Kudos) (Fixed)                            | Warehouse of Games |
+| Sega Bass Fishing (Rus) (RGR) [!]                                 | Lin                |
+
+Alone in the Dark 4 - The New Nightmare (Disc 1 of 4) (Rus) (RGR) - совпадает с Alone in the Dark 4 - The New Nightmare (Disc 1 of 2) (Rus) (RGR)
 
 ### 21.03.2025
 

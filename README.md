@@ -37,6 +37,47 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+TODO добавить в текстовый файл
+
+### 21.03.2025
+
+Новые образы игр:
+
+| Название                                                                             | Автор         |
+|--------------------------------------------------------------------------------------|---------------|
+| 2-in-1 Tomb Rider - Chronicles, Tomb Rider - The Last Revelation (Rus) (RGR) [!]     | psxplanet.ru  |
+| Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (v1.1) (GDI) | rutracker.org |
+| Omikron - The Nomad Soul (Rus) (7Wolf) (GDI)                                         | rutracker.org |
+| Omikron - The Nomad Soul (Rus) (Vector + 7Wolf) (GDI)                                | rutracker.org |
+| Stupid Invaders (Disc 1 of 2) (Rus) (NIVAL) (GDI)                                    | rutracker.org |
+| Stupid Invaders (Disc 2 of 2) (Rus) (NIVAL) (GDI)                                    | rutracker.org |
+| What's Shenmue (Rus) (R.G. DC RUS) (v3.0)                                            | rutracker.org |
+
+Этот образ поломанный настолько, что не удаётся его просканировать :(
+
+2-in-1 V-Rally - Expert Edition 2, Test Drive 6 (Rus) (RGR) (Bad)
+
+Дубликаты известных игр + полиграфия:
+
+| Название                                                                                             | Автор        |
+|------------------------------------------------------------------------------------------------------|--------------|
+| 2-in-1 European Super League, NBA Hoopz (Rus) (Kudos) [!]                                            | psxplanet.ru |
+| 2-in-1 Sonic Adventure, Grinch, The (Rus) (Vector) [!]                                               | psxplanet.ru |
+| 2-in-1 Tokyo Xtreme Racer, Tokyo Xtreme Racer 2 (Rus) (RGR) [!]                                      | psxplanet.ru |
+| 2-in-1 Toy Commander, Toy Racer (Rus) (RGR) [!]                                                      | psxplanet.ru |
+| 3-in-1 Quake, Hipnotic - Scourge of Armagon, Quake Zone (Rus) (Vector)                               | psxplanet.ru |
+| 4-in-1 Quake, Quake Demo, Quake - Scourge of Armagon, Quake Aliens, Quake Raptors (Rus) (Vector) [!] | psxplanet.ru |
+
+Переименования:
+
+| Прежнее название                                                              | Новое название                                                               |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Grandia II (Disc 1 of 1) (Rus) (Vector) (GD-ROM) (Fixed Translation)          | Grandia II (Disc 1 of 1) (Rus) (Vector) (Fixed Translation) (GD-ROM)         |
+| 2-in-1 Jimmy White's 2 - Cueball , Ultimate Fighting Championship (Rus) (RGR) | 2-in-1 Jimmy White's 2 - Cueball, Ultimate Fighting Championship (Rus) (RGR) |
+| Omikron - The Nomad Soul (Rus) (7Wolf) (GDI)                                  | Omikron - The Nomad Soul (Rus) (Vector + 7Wolf) (GDI)                        |
+| Maximum Pool (Rus) (Vector)                                                   | Maximum Pool (Rus) (Vector) [!]                                              |
+
+
 ### 10.03.2025
 
 Переименования:
@@ -69,7 +110,7 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 | Прежнее название                                    | Новое название                                      |
 |-----------------------------------------------------|-----------------------------------------------------|
-| 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (BAD) | 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (BAD) |
+| 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (BAD) | 2-in-1 Giga Wing 2, Mars Matrix (Rus) (Kudos) (Bad) |
 
 
 ### 26.02.2025

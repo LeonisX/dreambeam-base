@@ -37,6 +37,31 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 25.03.2025
+
+Новые образы игр:
+
+| Название                                                | Автор                                           |
+|---------------------------------------------------------|-------------------------------------------------|
+| Crazy Taxi (Rus) (RGR + 8Bit)                           | Sintakens, Ashtray, Dreamcast Russian Community |
+| Crazy Taxi (Rus) (RGR + Triada)                         | Sintakens, Ashtray, Dreamcast Russian Community |
+| Crazy Taxi (Rus) (RGR + Russian Project)                | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (RGR + Triada)          | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (RGR + Vector)          | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (Vector) (Fixed)        | Sintakens, Ashtray, Dreamcast Russian Community |
+| Mortal Kombat Gold (Rus) (Kudos)                        | ChronoOtaku, psxworld.ru                        |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1) (GDI) | Dark Sonic & Co.                                |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1)       | Dark Sonic & Co.                                |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (DLC)        | Dark Sonic & Co.                                |
+| Sonic Adventure 2 - The Trial (Rus) (Dark Sonic & Co.)  | Dark Sonic & Co.                                |
+
+Переименования:
+
+| Прежнее название                          | Новое название                                  |
+|-------------------------------------------|-------------------------------------------------|
+| Mortal Kombat Gold (Kudos) (Probably Bad) | Mortal Kombat Gold (Rus) (Kudos) (Probably Bad) |
+
+
 ### 22.03.2025
 
 Новые образы игр:

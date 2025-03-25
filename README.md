@@ -37,23 +37,35 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+TODo
+Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (v1.1) (GDI)
+
+https://www.youtube.com/watch?v=L0p8WaqvGC4&t=812s
+Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (Flycast)
+
+
 ### 25.03.2025
 
 Новые образы игр:
 
-| Название                                                | Автор                                           |
-|---------------------------------------------------------|-------------------------------------------------|
-| Crazy Taxi (Rus) (RGR + 8Bit)                           | Sintakens, Ashtray, Dreamcast Russian Community |
-| Crazy Taxi (Rus) (RGR + Triada)                         | Sintakens, Ashtray, Dreamcast Russian Community |
-| Crazy Taxi (Rus) (RGR + Russian Project)                | Sintakens, Ashtray, Dreamcast Russian Community |
-| Resident Evil 3 - Nemesis (Rus) (RGR + Triada)          | Sintakens, Ashtray, Dreamcast Russian Community |
-| Resident Evil 3 - Nemesis (Rus) (RGR + Vector)          | Sintakens, Ashtray, Dreamcast Russian Community |
-| Resident Evil 3 - Nemesis (Rus) (Vector) (Fixed)        | Sintakens, Ashtray, Dreamcast Russian Community |
-| Mortal Kombat Gold (Rus) (Kudos)                        | ChronoOtaku, psxworld.ru                        |
-| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1) (GDI) | Dark Sonic & Co.                                |
-| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1)       | Dark Sonic & Co.                                |
-| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (DLC)        | Dark Sonic & Co.                                |
-| Sonic Adventure 2 - The Trial (Rus) (Dark Sonic & Co.)  | Dark Sonic & Co.                                |
+| Название                                                          | Автор                                           |
+|-------------------------------------------------------------------|-------------------------------------------------|
+| Crazy Taxi (Rus) (RGR + 8Bit)                                     | Sintakens, Ashtray, Dreamcast Russian Community |
+| Crazy Taxi (Rus) (RGR + Triada)                                   | Sintakens, Ashtray, Dreamcast Russian Community |
+| Crazy Taxi (Rus) (RGR + Russian Project)                          | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (RGR + Triada)                    | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (RGR + Vector)                    | Sintakens, Ashtray, Dreamcast Russian Community |
+| Resident Evil 3 - Nemesis (Rus) (Vector) (Fixed)                  | Sintakens, Ashtray, Dreamcast Russian Community |
+| Mortal Kombat Gold (Rus) (Kudos)                                  | ChronoOtaku, psxworld.ru                        |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1) (GDI)           | Dark Sonic & Co.                                |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (v1.1)                 | Dark Sonic & Co.                                |
+| Sonic Adventure 2 (Rus) (Dark Sonic & Co.) (DLC)                  | Dark Sonic & Co.                                |
+| Sonic Adventure 2 - The Trial (Rus) (Dark Sonic & Co.)            | Dark Sonic & Co.                                |
+| Headhunter (Disc 1 of 2) (Rus) (R.G. DC RUS) (GDI)                | SDRewenD, 4pda.to                               |
+| Headhunter (Disc 2 of 2) (Rus) (R.G. DC RUS) (GDI)                | SDRewenD, 4pda.to                               |
+| Record of Lodoss War - The Advent of Cardice (Rus) (Vector) (GDI) | SDRewenD, 4pda.to                               |
+| Sonic Adventure (Rus) (Studia Max) (Voice Only) (GDI)             | SDRewenD, 4pda.to                               |
+
 
 Переименования:
 

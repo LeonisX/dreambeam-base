@@ -37,11 +37,21 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
-TODo
-Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (v1.1) (GDI)
+### 26.03.2025
 
-https://www.youtube.com/watch?v=L0p8WaqvGC4&t=812s
-Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (Flycast)
+Новые образы игр:
+
+| Название                                                                                                   | Автор                          |
+|------------------------------------------------------------------------------------------------------------|--------------------------------|
+| Berserk - Sennen Teikoku no Taka-hen - Soushitsu Hana no Shou (Rus) (Mr. Captain Dude) (Flycast)           | Мр. Капитан Чувак, youtube.com |
+| Berserk - Sennen Teikoku no Taka-hen - Soushitsu Hana no Shou (Rus) (e2e41, Mr. Captain Dude) (v1.1) (GDI) | e2e41, psxplanet.ru            |
+
+
+Переименования:
+
+| Прежнее название                                                                | Новое название                                                                        |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Berserk - Millennium Falcon-hen - Soushitsubana no Shou (NTSC-J) (Jap) (NU-NRG) | Berserk - Sennen Teikoku no Taka-hen - Soushitsu Hana no Shou (NTSC-J) (Jap) (NU-NRG) |
 
 
 ### 25.03.2025
@@ -96,7 +106,6 @@ Alone in the Dark 4 - The New Nightmare (Disc 1 of 4) (Rus) (RGR) - совпад
 | Название                                                                             | Автор         |
 |--------------------------------------------------------------------------------------|---------------|
 | 2-in-1 Tomb Rider - Chronicles, Tomb Rider - The Last Revelation (Rus) (RGR) [!]     | psxplanet.ru  |
-| Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Rus) (-) (v1.1) (GDI) | rutracker.org |
 | Omikron - The Nomad Soul (Rus) (7Wolf) (GDI)                                         | rutracker.org |
 | Omikron - The Nomad Soul (Rus) (Vector + 7Wolf) (GDI)                                | rutracker.org |
 | Stupid Invaders (Disc 1 of 2) (Rus) (NIVAL) (GDI)                                    | rutracker.org |

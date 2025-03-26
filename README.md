@@ -74,7 +74,7 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 | Headhunter (Disc 1 of 2) (Rus) (R.G. DC RUS) (GDI)                | SDRewenD, 4pda.to                               |
 | Headhunter (Disc 2 of 2) (Rus) (R.G. DC RUS) (GDI)                | SDRewenD, 4pda.to                               |
 | Record of Lodoss War - The Advent of Cardice (Rus) (Vector) (GDI) | SDRewenD, 4pda.to                               |
-| Sonic Adventure (Rus) (Studia Max) (Voice Only) (GDI)             | SDRewenD, 4pda.to                               |
+| Sonic Adventure (Rus) (Studia Max) (Voices Only) (GDI)            | SDRewenD, 4pda.to                               |
 
 
 Переименования:

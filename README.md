@@ -36,6 +36,70 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
+
+### 08.05.2025
+
+Новые образы игр:
+
+| Название                                                                       | Источник              |
+|--------------------------------------------------------------------------------|-----------------------|
+| 2-in-1 Unreal Tournament, Quake III Arena (Rus) (Vector) [!]                   | dreamrus.tv           |
+| BANG! Gunship Elite (Rus) (Kudos) [!]                                          | Lin                   |
+| Draconus - Cult of the Wyrm (Rus) (Vector) (GDI)                               | Rutracker, e2e4e6e8   |
+| Half Life with Blue Shift (Rus) (RGR + Zone of Games) (GDI)                    | Rutracker, e2e4e6e8   |
+| Railroad Tycoon II (Rus) (Vector) (GDI)                                        | Rutracker, e2e4e6e8   |
+| Rainbow Cotton (Rus) (SavitarSvit) (0.9) (GDI)                                 | emu-land, SavitarSvit |
+| Sonic Adventure International (Rus) (Studia Max) (DC-Labs) (Voices Only) (GDI) | dreamrus.tv           |
+| Space Channel 5 - Part 2 (PAL-E) (Rus, Jap, Eng) (MAG'94 + BRZ + RGR) (DC-LIN) | Lin                   |
+
+
+Дубликаты (не совпадают контрольные суммы, как правило, CDI):
+
+| Название                                                          | Источник    |
+|-------------------------------------------------------------------|-------------|
+|2-in-1 Alien Front Online, Millenium Soldier - Expendable (Rus) (Kudos)| Svaga Games |
+|2-in-1 Buzz Lightyear of Star Command, Toy Story 2 - Buzz Lightyear to the Rescue! (Rus) (RGR) [!]| Svaga Games |
+|2-in-1 Crazy Taxi, Crazy Taxi 2 (Rus) (RGR) [!]| Svaga Games |
+|2-in-1 Iron Aces, Deadly Skies (Rus) (Kudos)| Svaga Games |
+|2-in-1 Red Dog - Superior Firepower!, BANG! Gunship Elite (Rus) (Vector)| Svaga Games |
+|2-in-1 Re-Volt, Aqua GT (Rus) (Kudos) [!]| Svaga Games |
+|2-in-1 Silent Scope, Spec Ops II - Omega Squad (Rus) (Kudos) [!]| Svaga Games |
+|2-in-1 Sonic Adventure, Grinch, The (Rus) (Vector) [!]| Svaga Games |
+|2-in-1 Tokyo Xtreme Racer, Tokyo Xtreme Racer 2 (Rus) (RGR) [!]| Svaga Games |
+|Aero Dancing i (Rus) (RGR) [!]| Svaga Games |
+|AeroWings 2 - Air Strike (Rus) (RGR) [!]| Svaga Games |
+|Densha de Go! 2 Kousoku-hen 3000 Bandai (Rus) (RGR) [!]| Svaga Games |
+|Doom II - Hell on Earth, Simpsons Doom 2 (Rus) (Kudos)| Svaga Games |
+|ESPN International Track & Field (Rus) (Pinachet Game)| Svaga Games |
+|Space Channel 5 - Part 2 (Rus) (RGR) [!]| Svaga Games |
+
+| Название                                                          | Источник    |
+|-------------------------------------------------------------------|-------------|
+|Omikron - The Nomad Soul (Rus) (Vector) [!]| dreamrus.tv |
+|Omikron - The Nomad Soul (Rus) (Kudos) (99 min)| dreamrus.tv |
+|Red Dog - Superior Firepower! (Rus) (Kudos)| dreamrus.tv |
+|Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS)| dreamrus.tv |
+|Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS) (16.9 Fix)| dreamrus.tv |
+|Spec Ops II - Omega Squad (Rus) (Playbox)| dreamrus.tv |
+|Tomb Raider - Chronicles (Rus) (RGR)| dreamrus.tv |
+
+
+Переименования:
+
+| Прежнее название             | Новое название                 |
+|------------------------------|--------------------------------|
+| Aero Dancing i (Rus) (-) [!] | Aero Dancing i (Rus) (RGR) [!] | 
+
+
+### 07.05.2025
+
+Переименования:
+
+| Прежнее название               | Новое название                               |
+|--------------------------------|----------------------------------------------|
+| Neverhood, The (Rus) (Parovoz) | Neverhood, The (ScummVM) (Rus) (Parovoz) [!] | 
+
+
 ### 01.04.2025
 
 Новые образы игр:
@@ -100,31 +164,31 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Переименования:
 
-| Прежнее название                                                               | Новое название                                                                             |
-|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Dreamstud!o (Rus) (al32gabby) (DC-LABS)                                        | Dreamstud!o (Rus) (al32gabby) (DC-Labs)                                                    | 
-| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (1.1Gb CDI)                 | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20210505) (1.1Gb CDI)                  |
-| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (700Mb CDI)                 | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20210424) (700Mb CDI)                  |
-| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (1.1Gb CDI) (20200418)      | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20200418) (1.1Gb CDI)                  |
-| Shenmue II (Disc 1 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 1 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)                |
-| Shenmue II (Disc 2 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 2 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)                |
-| Shenmue II (Disc 3 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 3 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)                |
-| Shenmue II (Disc 4 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 4 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)                |
-| Shenmue II (Disc 1 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 1 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)                |
-| Shenmue II (Disc 2 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 2 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)                |
-| Shenmue II (Disc 3 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 3 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)                |
-| Shenmue II (Disc 4 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 4 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)                |
-| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v4)                     | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v4) (DC-Labs)                       |
-| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (50Hz)              | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (DC-Labs) (50Hz)                |
-| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA)          | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (DC-Labs) (60hz+VGA)            |
-| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA) (700 mb) | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (DC-Labs) (60hz+VGA) (700 mb)   |
-| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v4)                     | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v4) (DC-Labs)                       |
-| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v7) (50Hz)              | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (50Hz)              |
-| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA)          | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (60hz+VGA)          |
+| Прежнее название                                                               | Новое название                                                                           |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Dreamstud!o (Rus) (al32gabby) (DC-LABS)                                        | Dreamstud!o (Rus) (al32gabby) (DC-Labs)                                                  | 
+| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (1.1Gb CDI)                 | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20210505) (1.1Gb CDI)                |
+| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (700Mb CDI)                 | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20210424) (700Mb CDI)                |
+| Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (1.1Gb CDI) (20200418)      | Grandia II (Disc 1 of 1) (Rus) (Vector) (cptPauer) (20200418) (1.1Gb CDI)                |
+| Shenmue II (Disc 1 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 1 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)              |
+| Shenmue II (Disc 2 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 2 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)              |
+| Shenmue II (Disc 3 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 3 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)              |
+| Shenmue II (Disc 4 of 4) (Rus) (RGR) (Eng - Full Speech) (99 min)              | Shenmue II (Disc 4 of 4) (Rus) (RGR) (DC-Labs) (Eng - Full Speech) (99 min)              |
+| Shenmue II (Disc 1 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 1 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)              |
+| Shenmue II (Disc 2 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 2 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)              |
+| Shenmue II (Disc 3 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 3 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)              |
+| Shenmue II (Disc 4 of 4) (Rus) (RGR) (Jap - Full Speech) (99 min)              | Shenmue II (Disc 4 of 4) (Rus) (RGR) (DC-Labs) (Jap - Full Speech) (99 min)              |
+| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v4)                     | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v4) (DC-Labs)                     |
+| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (50Hz)              | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (50Hz)              |
+| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA)          | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (60hz+VGA)           |
+| Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA) (700 mb) | Skies of Arcadia (Disc 1 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (60hz+VGA) (700 mb)  |
+| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v4)                     | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v4) (DC-Labs)                     |
+| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v7) (50Hz)              | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (50Hz)            |
+| Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA)          | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (60hz+VGA)        |
 | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v7) (60hz+VGA) (700 mb) | Skies of Arcadia (Disc 2 of 2) (Rus) (Vector) (Fixed) (v6.1) (DC-Labs) (60hz+VGA) (700 mb) |
-| Sonic Adventure (Rus) (Studia Max) (DC-Labs) (Voices Only) (GDI)               | Sonic Adventure (Rus) (Studia Max) (DC-Labs) (Voices Only) (GDI)                           |
-| Sonic Adventure 2 (Rus) (Kudos + fundub)                                       | Sonic Adventure 2 (Rus) (Kudos + fundub) (cptPauer)                                        |
-| Sonic Adventure 2 (Rus) (Vector + fundub)                                      | Sonic Adventure 2 (Rus) (Vector + fundub) (cptPauer)                                       |
+| Sonic Adventure (Rus) (Studia Max) (DC-Labs) (Voices Only) (GDI)               | Sonic Adventure (Rus) (Studia Max) (DC-Labs) (Voices Only) (GDI)                         |
+| Sonic Adventure 2 (Rus) (Kudos + fundub)                                       | Sonic Adventure 2 (Rus) (Kudos + fundub) (cptPauer)                                      |
+| Sonic Adventure 2 (Rus) (Vector + fundub)                                      | Sonic Adventure 2 (Rus) (Vector + fundub) (cptPauer)                                     |
 
 
 ### 26.03.2025

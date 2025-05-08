@@ -37,6 +37,39 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 09.05.2025
+
+Новые образы игр:
+
+- Grand Theft Auto III (Eng) (Alpha) (2024-07-30)
+- Grand Theft Auto III (Eng) (Alpha) (2024-08-25)
+- Grand Theft Auto III (Rus) (Alpha) (2024-09-08)
+- Grand Theft Auto III (Rus) (Alpha) (2024-12-30)
+- Grand Theft Auto III (Eng) (Alpha) (2024-12-30)
+- Grand Theft Auto III (Eng) (Alpha) (2024-12-31) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2024-12-31)
+- Grand Theft Auto III (Rus) (Alpha) (2024-12-31) (CD)
+- Grand Theft Auto III (Rus) (Alpha) (2024-12-31)
+- Grand Theft Auto III (Rus) (Alpha) (2025-01-02) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-05) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-06) (Bomb Fix)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-06) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-06)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-15) (Bomb Fix)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-16)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-16) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-25)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-25) (CD)
+- Grand Theft Auto III (Rus) (Alpha) (2025-02-25)
+- Grand Theft Auto III (Rus) (Alpha) (2025-02-25) (CD)
+- Grand Theft Auto III (Rus) (Alpha) (2025-02-26)
+- Grand Theft Auto III (Rus) (Alpha) (2025-02-26) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-05) (Luis) (ISO)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-06) (Luis) (CD)
+- Grand Theft Auto III (Eng) (Alpha) (2025-01-05) (Luis)
+- Grand Theft Auto III (Rus) (Alpha) (2024-12-29) (ISO)
+
+
 ### 08.05.2025
 
 Новые образы игр:

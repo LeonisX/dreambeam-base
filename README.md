@@ -41,9 +41,17 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Новые образы игр:
 
+| Название                                                       | Источник             |
+|----------------------------------------------------------------|----------------------|
+| Donald Duck, Disney's Qu@ck Att@ck! (Rus) (Vector) (Intro Fix) | Elgor4uk, dc-swat.ru |
+
+
+Новые образы игр GTA, в основном от https://t.me/BartonSquad:
+
 - Grand Theft Auto III (Eng) (Alpha) (2024-07-30)
 - Grand Theft Auto III (Eng) (Alpha) (2024-08-25)
 - Grand Theft Auto III (Rus) (Alpha) (2024-09-08)
+- Grand Theft Auto III (Rus) (Alpha) (2024-12-29) (ISO)
 - Grand Theft Auto III (Rus) (Alpha) (2024-12-30)
 - Grand Theft Auto III (Eng) (Alpha) (2024-12-30)
 - Grand Theft Auto III (Eng) (Alpha) (2024-12-31) (CD)
@@ -67,7 +75,13 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 - Grand Theft Auto III (Eng) (Alpha) (2025-01-05) (Luis) (ISO)
 - Grand Theft Auto III (Eng) (Alpha) (2025-01-06) (Luis) (CD)
 - Grand Theft Auto III (Eng) (Alpha) (2025-01-05) (Luis)
-- Grand Theft Auto III (Rus) (Alpha) (2024-12-29) (ISO)
+
+- Grand Theft Auto - Vice City (Multi) (Alpha) (2025-02-24) (CD)
+- Grand Theft Auto - Vice City (Rus) (Alpha) (2025-02-25)
+- Grand Theft Auto - Vice City (Rus) (Alpha) (2025-03-09) (CD)
+- Grand Theft Auto - Vice City (Rus) (Alpha) (2025-03-09)
+- Grand Theft Auto - Vice City (Rus) (Alpha) (2025-03-12) (CD)
+- Grand Theft Auto - Vice City (Rus) (Alpha) (2025-03-12)
 
 
 ### 08.05.2025

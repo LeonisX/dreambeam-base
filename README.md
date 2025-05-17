@@ -47,12 +47,11 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 | Название                                                                   | Источник      |
 |----------------------------------------------------------------------------|---------------|
 | 2-in-1 Raptors! Quake, Unreal Tournament (Rus) (Kudos)                     | Dreamcast cdi |
+| Fruit'Y (NTSC-U, PAL-E) (Eng) (Latest) [!]                                 | Official site |
 | Loom (ScummVM) (Rus) (PRCA) (PAROVOZ) [!]                                  | Lin           |
 | Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Events Debug) [!] | Lin           |
 | Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Sounds Debug) [!] | Lin           |
 | Worms - Armageddon (Rus) (RGR) (PAROVOZ) [!]                               | Lin           |
-
-
 
 
 Новые образы игр (на английском языке):

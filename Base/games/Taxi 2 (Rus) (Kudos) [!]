@@ -80,7 +80,8 @@ taxi2\cmd\choixarcade.cmd [15878 bytes] - 0B1D9B3D
 taxi2\cmd\choixmission.cmd [15878 bytes] - F64E6D49
 taxi2\cmd\debut.cmd [7914 bytes] - 5A081431
 taxi2\cmd\debut1.cmd [1258 bytes] - 091621CF
-taxi2\cmd\debut2.cmd [1258 bytes] - AF1E513Etaxi2\cmd\debut3.cmd [270 bytes] - 347660E6
+taxi2\cmd\debut2.cmd [1258 bytes] - AF1E513E
+taxi2\cmd\debut3.cmd [270 bytes] - 347660E6
 taxi2\cmd\debut4.cmd [270 bytes] - 3055864A
 taxi2\cmd\debut5.cmd [270 bytes] - FC4123FF
 taxi2\cmd\entremi.cmd [4386 bytes] - 23C941EC
@@ -289,7 +290,8 @@ taxi2\dss\tombhrb30.dss [6179 bytes] - 729A7FEE
 taxi2\dss\tombpav30.dss [7830 bytes] - 8617A4F8
 taxi2\dss\tombrocter30.dss [8558 bytes] - C5F7DEE3
 taxi2\dss\tombter30.dss [6598 bytes] - 718856EF
-taxi2\dss\turbotaxi.dss [116210 bytes] - 95246727taxi2\dss\vagues.dss [245042 bytes] - 44308AB7
+taxi2\dss\turbotaxi.dss [116210 bytes] - 95246727
+taxi2\dss\vagues.dss [245042 bytes] - 44308AB7
 taxi2\dss\vagues2.dss [238020 bytes] - DEFDB844
 taxi2\dss\venere1.dss [57402 bytes] - 6CAE6605
 taxi2\dss\venere2.dss [51258 bytes] - 6DC27CEF

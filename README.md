@@ -37,6 +37,54 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 17.05.2025
+
+Новые образы игр (на русском языке):
+
+| Название                                                                   | Источник |
+|----------------------------------------------------------------------------|----------|
+| Loom (ScummVM) (Rus) (PRCA) (PAROVOZ) [!]                                  | Lin      |
+| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Events Debug) [!] | Lin      |
+| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Sounds Debug) [!] | Lin      |
+| Worms - Armageddon (Rus) (RGR) (PAROVOZ) [!]                               | Lin      |
+
+
+Новые образы игр (на английском языке):
+
+| Название                                                                    | Источник    |
+|-----------------------------------------------------------------------------|-------------|
+| Fruit'Y (NTSC-U, PAL-E) (Eng) (PAROVOZ) (Homebrew) [!]                      | Lin         |
+| First Kiss Story (Disc 1 of 2) (NTSC-J) (Jap) (PAROVOZ) [!]                 | Lin         |
+| First Kiss Story (Disc 2 of 2) (NTSC-J) (Jap) (PAROVOZ) [!]                 | Lin         |
+| Golf Shiyoyo - Course Data Shu - Adventure Hen (NTSC-J) (Jap) (PAROVOZ) [!] | Lin         |
+| Himitsu - Yui ga Ita Natsu (NTSC-J) (Jap) (PAROVOZ) [!]                     | Lin         |
+| Nettou Golf (NTSC-J) (Jap) (PAROVOZ) [!]                                    | Lin         |
+| Ring, The Terror's Realm (NTSC-U) (Eng) (DCRES) [!]                         | archive.org |
+| Ring, The Terror's Realm (NTSC-U) (Eng) (DCRES) (VGA Patched) (PAROVOZ) [!] | Lin         |
+| Secret of Monkey Island, The (ScummVM) (Eng) (PAROVOZ) [!]                  | Lin         |
+| Sturmwind (PAL-E) (Eng) (PAROVOZ) [!]                                       | Lin         |
+| Sturmwind (PAL-E) (Eng) (PAROVOZ) (No Emuls Support) [!]                    | Lin         |
+| Zak McKracken and the Alien Mindbenders (ScummVM) (Eng) (PAROVOZ) [!]       | Lin         |
+
+
+Переименования:
+
+| Прежнее название                                             | Новое название                                                   |
+|--------------------------------------------------------------|------------------------------------------------------------------|
+| 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) | 2-in-1 Raptors! Quake, Heavy Metal - Geomatrix (Rus) (Kudos) [!] |
+| Alice's Mom's Rescue (Rus) (Parovoz Team)                    | Alice's Mom's Rescue (Rus) (Parovoz Team) (PAROVOZ) [!]          |
+| Bomberman Online (Rus) (Vector)                              | Bomberman Online (Rus) (Vector) [!]                              |
+| Neverhood, The (ScummVM) (Rus) (Parovoz) [!]                 | Neverhood, The (ScummVM) (Rus) (Nunky Research) (PAROVOZ) [!]    |
+| Ring, The Terror's Realm (Rus) (Parovoz Team)                | Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) [!]      |
+
+
+Дубликаты (не совпадают контрольные суммы, как правило, CDI):
+
+| Название                            | Источник           |
+|-------------------------------------|--------------------|
+| Bomberman Online (Rus) (Vector) [!] | Warehouse of Games |
+
+
 ### 09.05.2025
 
 Новые образы игр:
@@ -102,33 +150,33 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Дубликаты (не совпадают контрольные суммы, как правило, CDI):
 
-| Название                                                          | Источник    |
-|-------------------------------------------------------------------|-------------|
-|2-in-1 Alien Front Online, Millenium Soldier - Expendable (Rus) (Kudos)| Svaga Games |
-|2-in-1 Buzz Lightyear of Star Command, Toy Story 2 - Buzz Lightyear to the Rescue! (Rus) (RGR) [!]| Svaga Games |
-|2-in-1 Crazy Taxi, Crazy Taxi 2 (Rus) (RGR) [!]| Svaga Games |
-|2-in-1 Iron Aces, Deadly Skies (Rus) (Kudos)| Svaga Games |
-|2-in-1 Red Dog - Superior Firepower!, BANG! Gunship Elite (Rus) (Vector)| Svaga Games |
-|2-in-1 Re-Volt, Aqua GT (Rus) (Kudos) [!]| Svaga Games |
-|2-in-1 Silent Scope, Spec Ops II - Omega Squad (Rus) (Kudos) [!]| Svaga Games |
-|2-in-1 Sonic Adventure, Grinch, The (Rus) (Vector) [!]| Svaga Games |
-|2-in-1 Tokyo Xtreme Racer, Tokyo Xtreme Racer 2 (Rus) (RGR) [!]| Svaga Games |
-|Aero Dancing i (Rus) (RGR) [!]| Svaga Games |
-|AeroWings 2 - Air Strike (Rus) (RGR) [!]| Svaga Games |
-|Densha de Go! 2 Kousoku-hen 3000 Bandai (Rus) (RGR) [!]| Svaga Games |
-|Doom II - Hell on Earth, Simpsons Doom 2 (Rus) (Kudos)| Svaga Games |
-|ESPN International Track & Field (Rus) (Pinachet Game)| Svaga Games |
-|Space Channel 5 - Part 2 (Rus) (RGR) [!]| Svaga Games |
+| Название                                                                                           | Источник    |
+|----------------------------------------------------------------------------------------------------|-------------|
+| 2-in-1 Alien Front Online, Millenium Soldier - Expendable (Rus) (Kudos)                            | Svaga Games |
+| 2-in-1 Buzz Lightyear of Star Command, Toy Story 2 - Buzz Lightyear to the Rescue! (Rus) (RGR) [!] | Svaga Games |
+| 2-in-1 Crazy Taxi, Crazy Taxi 2 (Rus) (RGR) [!]                                                    | Svaga Games |
+| 2-in-1 Iron Aces, Deadly Skies (Rus) (Kudos)                                                       | Svaga Games |
+| 2-in-1 Red Dog - Superior Firepower!, BANG! Gunship Elite (Rus) (Vector)                           | Svaga Games |
+| 2-in-1 Re-Volt, Aqua GT (Rus) (Kudos) [!]                                                          | Svaga Games |
+| 2-in-1 Silent Scope, Spec Ops II - Omega Squad (Rus) (Kudos) [!]                                   | Svaga Games |
+| 2-in-1 Sonic Adventure, Grinch, The (Rus) (Vector) [!]                                             | Svaga Games |
+| 2-in-1 Tokyo Xtreme Racer, Tokyo Xtreme Racer 2 (Rus) (RGR) [!]                                    | Svaga Games |
+| Aero Dancing i (Rus) (RGR) [!]                                                                     | Svaga Games |
+| AeroWings 2 - Air Strike (Rus) (RGR) [!]                                                           | Svaga Games |
+| Densha de Go! 2 Kousoku-hen 3000 Bandai (Rus) (RGR) [!]                                            | Svaga Games |
+| Doom II - Hell on Earth, Simpsons Doom 2 (Rus) (Kudos)                                             | Svaga Games |
+| ESPN International Track & Field (Rus) (Pinachet Game)                                             | Svaga Games |
+| Space Channel 5 - Part 2 (Rus) (RGR) [!]                                                           | Svaga Games |
 
-| Название                                                          | Источник    |
-|-------------------------------------------------------------------|-------------|
-|Omikron - The Nomad Soul (Rus) (Vector) [!]| dreamrus.tv |
-|Omikron - The Nomad Soul (Rus) (Kudos) (99 min)| dreamrus.tv |
-|Red Dog - Superior Firepower! (Rus) (Kudos)| dreamrus.tv |
-|Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS)| dreamrus.tv |
-|Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS) (16.9 Fix)| dreamrus.tv |
-|Spec Ops II - Omega Squad (Rus) (Playbox)| dreamrus.tv |
-|Tomb Raider - Chronicles (Rus) (RGR)| dreamrus.tv |
+| Название                                                                             | Источник    |
+|--------------------------------------------------------------------------------------|-------------|
+| Omikron - The Nomad Soul (Rus) (Vector) [!]                                          | dreamrus.tv |
+| Omikron - The Nomad Soul (Rus) (Kudos) (99 min)                                      | dreamrus.tv |
+| Red Dog - Superior Firepower! (Rus) (Kudos)                                          | dreamrus.tv |
+| Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS)            | dreamrus.tv |
+| Shenmue (Gold Edition) (Disc 3 of 3) (Jap speech + RUS sub) (R.G. DC RUS) (16.9 Fix) | dreamrus.tv |
+| Spec Ops II - Omega Squad (Rus) (Playbox)                                            | dreamrus.tv |
+| Tomb Raider - Chronicles (Rus) (RGR)                                                 | dreamrus.tv |
 
 
 Переименования:

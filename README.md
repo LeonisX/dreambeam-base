@@ -39,14 +39,20 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 ### 17.05.2025
 
+Это день релизов от PAROVOZ. Но по старой доброй традиции сразу же примешиваются какие-то другие игры, так что чистого релиза не вышло.
+История с 2-in-1 Raptors! Quake, Unreal Tournament (Rus) (Kudos) вообще забавная - образ много лет числится в коллекции, хотя это не так.
+
 Новые образы игр (на русском языке):
 
-| Название                                                                   | Источник |
-|----------------------------------------------------------------------------|----------|
-| Loom (ScummVM) (Rus) (PRCA) (PAROVOZ) [!]                                  | Lin      |
-| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Events Debug) [!] | Lin      |
-| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Sounds Debug) [!] | Lin      |
-| Worms - Armageddon (Rus) (RGR) (PAROVOZ) [!]                               | Lin      |
+| Название                                                                   | Источник      |
+|----------------------------------------------------------------------------|---------------|
+| 2-in-1 Raptors! Quake, Unreal Tournament (Rus) (Kudos)                     | Dreamcast cdi |
+| Loom (ScummVM) (Rus) (PRCA) (PAROVOZ) [!]                                  | Lin           |
+| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Events Debug) [!] | Lin           |
+| Ring, The Terror's Realm (Rus) (Parovoz Team) (PAROVOZ) (Sounds Debug) [!] | Lin           |
+| Worms - Armageddon (Rus) (RGR) (PAROVOZ) [!]                               | Lin           |
+
+
 
 
 Новые образы игр (на английском языке):

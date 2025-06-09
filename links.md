@@ -9,7 +9,7 @@
 - https://vk.com/dreamhomebrew
 - https://4pda.to/forum/index.php?showtopic=802556&st=7120#entry104669653
 - https://www.dreamcast-talk.com/forum/app.php/portal
-- https://www.dreamcast-talk.com/forum/viewforum.php?f=53&start=25
+- https://www.dreamcast-talk.com/forum/viewforum.php?f=53&start=50
 - https://itch.io/search?q=dreamcast
 - https://segabits.com/forums/index.php?topic=4711.0
 - http://www.dreamrus.tv/forum/14

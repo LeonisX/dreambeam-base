@@ -37,7 +37,35 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
-### 25.05.2025
+### 09.06.2025
+
+Новые образы игр (на русском языке):
+
+| Название                                                                   | Источник      |
+|----------------------------------------------------------------------------|---------------|
+| Genesis Plus DC (316 Games) (NTSC-U, PAL-E) (Eng) (Alex) (Homebrew)        | Dreamcast cdi |
+| Genesis Plus DC (1300 Games) (NTSC-U, PAL-E) (Eng) (Ivan Guber) (Homebrew) | dc-swat.ru    |
+| Vermilion Desert (Rus) (RGR) (R.G. DC RUS)                                 | Dreamcast cdi |
+
+
+Переименования:
+
+| Прежнее название            | Новое название                 |
+|-----------------------------|--------------------------------|
+| Slave Zero (Rus) (Paradox)  | Slave Zero (Rus) (Paradox) [!] |
+
+
+Дубликаты (не совпадают контрольные суммы, как правило, CDI, Игры Sega Dreamcast, PlayStation):
+
+- Crazy Taxi 2 (Rus) (Vector) [!]
+- Jet Grind Radio (Rus) (Vector) (Bad)
+- Nightmare Creatures II (Rus) (Vector) [!]
+- Resident Evil 2 (Disc 1 of 2) (Rus) (Akella + Team Raccoon) (RC6)
+- Resident Evil 2 (Disc 2 of 2) (Rus) (Akella + Team Raccoon) (RC6)
+- Soul Calibur (Rus) (Vector) (Alt) [!]
+
+
+### 26.05.2025
 
 Большой список обновлений при спонсорской поддержке Телеграмм-канала **[Dreamcast cdi](https://t.me/Dreamcastcdi)**.
 

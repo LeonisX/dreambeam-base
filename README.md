@@ -45,6 +45,12 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 |-------------------------------------------------------------|-------------------------|
 | 2-in-1 Unreal Tournament, Quake III Arena (Rus) (Kudos) [!] | ДРАКУЛА3Ц, psxplanet.ru |
 
+Переименования:
+
+| Прежнее название                                                             | Новое название                                                                                |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2-in-1 Jimmy White's 2 - Cueball, Ultimate Fighting Championship (Rus) (RGR) | 2-in-1 Jimmy White's 2 - Cueball (Eng), Ultimate Fighting Championship (Rus) (RGR) (Maximka5) |
+
 
 ### 09.06.2025
 
@@ -59,9 +65,9 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 
 Переименования:
 
-| Прежнее название            | Новое название                 |
-|-----------------------------|--------------------------------|
-| Slave Zero (Rus) (Paradox)  | Slave Zero (Rus) (Paradox) [!] |
+| Прежнее название           | Новое название                 |
+|----------------------------|--------------------------------|
+| Slave Zero (Rus) (Paradox) | Slave Zero (Rus) (Paradox) [!] |
 
 
 Дубликаты (не совпадают контрольные суммы, как правило, CDI, Игры Sega Dreamcast, PlayStation):

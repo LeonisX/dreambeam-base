@@ -16,6 +16,11 @@
 - https://www.emu-land.net/forum/index.php/topic,69784.450.html
 
 
+# Covers
+
+- https://segaretro.org/Dreamcast_bootleg_games
+- https://dreamcast.ucoz.ru/photo/5
+
 # Other Downloads
 
 - http://psxworld.ru/
@@ -48,6 +53,13 @@
 - https://archive.org/details/dreamcast.-cdi.-roms.-pack-vlc
 - https://archive.org/details/@cleberfaria1
 
+- https://archive.org/download/dn-3.0-neo-turf-masters
+- https://archive.org/details/bloody-blade-2-blood-of-the-samurai
+- https://archive.org/download/hackset
+- https://archive.org/details/BleemcastShindouGo#reviews
+- https://archive.org/download/BleemShell
+- https://cloud.mail.ru/public/R8sX/aSiLtBiDW
+- https://archive.org/download/BleemShell
 
 # Soft, info
 
@@ -72,3 +84,9 @@
 - https://dreamcast.wiki/MIL-CD
 - https://rsload.net/soft/cleaner-disk/9239-cdroller.html
 - https://github.com/arthabus/DreamcastCdiTool
+- http://www.dc-swat.ru/page/download/
+
+# Sources
+
+- https://cdemu.sourceforge.io/news/
+- https://sourceforge.net/projects/dcisotools/?source=typ_redirect

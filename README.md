@@ -37,6 +37,33 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+### 11.06.2025
+
+Переименования:
+
+| Прежнее название                                                 | Новое название                                                                                |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2-in-1 Rainbow Six, Rogue Spear (Rus) (Vector) (Alt)             | 2-in-1 Tom Clancy's Rainbow Six, Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector) (Alt)  |
+| 2-in-1 Rainbow Six, Rogue Spear (Rus) (Vector) (Alt2)            | 2-in-1 Tom Clancy's Rainbow Six, Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector) (Alt2) |
+| 2-in-1 Rainbow Six, Rogue Spear (Rus) (Vector) (Alt3)            | 2-in-1 Tom Clancy's Rainbow Six, Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector) (Alt3) |
+| 2-in-1 Rainbow Six, Rogue Spear (Rus) (Vector) [!]               | 2-in-1 Tom Clancy's Rainbow Six, Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector) [!]    |
+| Rainbow Six Tom Clancy's (NTSC-U) (Eng) (NBC)                    | Tom Clancy's Rainbow Six (NTSC-U) (Eng) (NBC)                                                 |
+| Rainbow Six Tom Clancy's (PAL-E) (Eng) (DCP)                     | Tom Clancy's Rainbow Six (PAL-E) (Eng) (DCP)                                                  |
+| Rainbow Six Tom Clancy's (PAL-E) (Fre) (Ulysse)                  | Tom Clancy's Rainbow Six (PAL-E) (Fre) (Ulysse)                                               |
+| Rainbow Six Tom Clancy's (PAL-E) (Ger) (DrastiC)                 | Tom Clancy's Rainbow Six (PAL-E) (Ger) (DrastiC)                                              |
+| Rainbow Six Tom Clancy's (Rus) (RGR)                             | Tom Clancy's Rainbow Six (Rus) (RGR)                                                          |
+| Rainbow Six Tom Clancy's (Rus) (Vector)                          | Tom Clancy's Rainbow Six (Rus) (Vector)                                                       |
+| Rainbow Six, Tom Clancy's - Rogue Spear (NTSC-U) (Eng) (Echelon) | Tom Clancy's Rainbow Six - Rogue Spear (NTSC-U) (Eng) (Echelon)                               |
+| Rainbow Six, Tom Clancy's - Rogue Spear (PAL-E) (Eng) (DCP)      | Tom Clancy's Rainbow Six - Rogue Spear (PAL-E) (Eng) (DCP)                                    |
+| Rainbow Six, Tom Clancy's - Rogue Spear (PAL-E) (Fre) (Alpax)    | Tom Clancy's Rainbow Six - Rogue Spear (PAL-E) (Fre) (Alpax)                                  |
+| Rainbow Six, Tom Clancy's - Rogue Spear (PAL-E) (Ger) (DrastiC)  | Tom Clancy's Rainbow Six - Rogue Spear (PAL-E) (Ger) (DrastiC)                                |
+| Rainbow Six, Tom Clancy's - Rogue Spear (Rus) (Kudos)            | Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Kudos)                                          |
+| Rainbow Six, Tom Clancy's - Rogue Spear (Rus) (Vector)           | Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector)                                         |
+| Super Runabout - San Francisco Edition (Rus) (Vector)            | Super Runabout (Rus) (Vector) (Alt)                                                           |
+| Super Runabout - San Francisco Edition (Rus) (Vector) [!]        | Super Runabout (Rus) (Vector) [!]                                                             |
+| Super Runabout (PAL-E) (Eng) (DCP)                               | Super Runabout - San Francisco Edition (PAL-E) (Eng) (DCP)                                    |
+
+
 ### 10.06.2025
 
 Новые образы игр:

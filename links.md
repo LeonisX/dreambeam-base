@@ -60,6 +60,7 @@
 - https://archive.org/download/BleemShell
 - https://cloud.mail.ru/public/R8sX/aSiLtBiDW
 - https://archive.org/download/BleemShell
+- https://archive.org/details/industrial_spy_oe_undub_patch
 
 # Soft, info
 
@@ -90,3 +91,13 @@
 
 - https://cdemu.sourceforge.io/news/
 - https://sourceforge.net/projects/dcisotools/?source=typ_redirect
+
+# Other links
+
+- https://archive.org/details/@chadmaster
+- https://archive.org/details/@ajanpugamer
+- https://archive.org/details/@ckau
+- https://4pda.to/forum/index.php?showtopic=897674
+- https://disk.yandex.ru/d/xyKA5L673RNnnE
+
+

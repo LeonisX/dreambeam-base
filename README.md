@@ -37,6 +37,39 @@ http://tv-games.ru/news/read/dreamcast_collection.html
 Если какая-то игра была переименована, то изменение следует внести в свою локальную базу, если она там присутствует. Пока это возможно только в ручном режиме.
 
 
+Wild Metal (RUS-05174) (NoRG)                       Издание от Кудос, с переводом NoRG.
+
+Sega Extreme Sports (RUS-05110) (RGR Studio) (где баба) на SegaRetro это Кудос.
+
+
+
+
+
+Flag to Flag == это Super Speed Racing у вектора
+
+Boku no Tennis Jinsei == My Tennis Life у кудоса
+
+ESPN NBA 2Night == NBA 2Night у кудоса
+
+Plasma Sword: Nightmare of Bilstein == Star Gladiator 2: Nightmare of Bilstein у кудоса, Star Gladiator, Plasma Sword у вектора
+
+
+### 29.07.2025
+
+Новые образы игр:
+
+| Название                             | Источник                |
+|--------------------------------------|-------------------------|
+| Railroad Tycoon II (Rus) (Kudos) [!] | Sintakens, psxplanet.ru |
+
+Переименования:
+
+| Прежнее название                               | Новое название                                     |
+|------------------------------------------------|----------------------------------------------------|
+| Ready 2 Rumble Boxing - Round 2 (Rus) (Kudos)  | Ready 2 Rumble Boxing - Round 2 (Rus) (Kudos) [!]  |
+| Ready 2 Rumble Boxing - Round 2 (Rus) (Vector) | Ready 2 Rumble Boxing - Round 2 (Rus) (Vector) [!] |
+
+
 ### 26.06.2025
 
 Переименования:

@@ -54,7 +54,21 @@ ESPN NBA 2Night == NBA 2Night у кудоса
 Plasma Sword: Nightmare of Bilstein == Star Gladiator 2: Nightmare of Bilstein у кудоса, Star Gladiator, Plasma Sword у вектора
 
 
-### 29.07.2025
+Advanced Daisenryaku 2001 (Rus) (RGR)
+Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR)
+
+
+
+### 22.08.2025****
+
+Переименования:
+
+| Прежнее название                      | Новое название                                                               |
+|---------------------------------------|------------------------------------------------------------------------------|
+| Advanced Daisenryaku 2001 (Rus) (RGR) | Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR) |
+
+
+### 29.07.2025****
 
 Новые образы игр:
 

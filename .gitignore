@@ -1,11 +1,5 @@
 DreamBeam.ini
 /Base/games.dat
-/Leonis/
-/LeonisOld/
-/Leonis.log
-/.idea/.gitignore
-/.idea/dreambeam-base.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/Leonis .log
+/Leon*
+.idea
+*.log

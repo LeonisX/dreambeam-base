@@ -1,5 +1,7 @@
-DreamBeam.ini
+/*
+!/Base/
 /Base/games.dat
-/Leon*
-.idea
-*.log
+!/experimental/
+!*.txt
+!*.exe
+!*.md

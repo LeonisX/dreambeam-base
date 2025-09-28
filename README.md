@@ -59,7 +59,30 @@ Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR)
 
 
 
-### 22.08.2025****
+### 28.09.2025
+
+Новые образы игр (пока добавлены только в базу данных DreamBeam):
+
+| Название                             | Источник |
+|--------------------------------------|----------|
+| Dino Crisis (Rus) (PlayZero)         | PavelDAS |
+| Ring, The Terror's Realm (Rus) (RGR) | PavelDAS |
+
+
+Переименования:
+
+| Прежнее название                                                  | Новое название                                                        |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 4x4 Evolution (Rus) (RGR)                                         | 4x4 Evolution (Rus) (RGR) [!]                                         |
+| Alone in the Dark 4 - The New Nightmare (Disc 2 of 4) (Rus) (RGR) | Alone in the Dark 4 - The New Nightmare (Disc 2 of 4) (Rus) (RGR) [!] |
+| Deep Fighter (Disc 1 of 2) (Rus) (RGR)                            | Deep Fighter (Disc 1 of 2) (Rus) (RGR) [!]                            |
+| Deep Fighter (Disc 2 of 2) (Rus) (RGR)                            | Deep Fighter (Disc 2 of 2) (Rus) (RGR) [!]                            |
+| Game Guru Gold 1 (Rus) (OOO Videoigra)                            | Game Guru Gold 1 (Rus) (OOO Videoigra) [!]                            |
+| Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector)             | Tom Clancy's Rainbow Six - Rogue Spear (Rus) (Vector) [!]             |
+| Tomb Raider - Chronicles (Rus) (RGR)                              | Tomb Raider - Chronicles (Rus) (RGR) [!]                              |
+
+
+### 22.08.2025
 
 Переименования:
 
@@ -68,7 +91,7 @@ Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR)
 | Advanced Daisenryaku 2001 (Rus) (RGR) | Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR) |
 
 
-### 29.07.2025****
+### 29.07.2025
 
 Новые образы игр:
 

@@ -59,6 +59,36 @@ Advanced Daisenryaku - Europe no Arashi - Doitsu Dengeki Sakusen (Rus) (RGR)
 
 
 
+
+TODO rename
+
+Ring, The - Terror's Realm
+
+
+### 05.10.2025
+
+
+Новые образы игр (пока добавлены только в базу данных DreamBeam):
+
+| Название                                                | Источник |
+|---------------------------------------------------------|----------|
+| DCDivX Player - Pitch Black (Rus)                       | PavelDAS |
+| Game Shark v3.3 (Eng) (OOO Videoigra)                   | PavelDAS |
+| Resident Evil - CODE - Veronica (Disc 1 of 2) (-) (Eng) | PavelDAS |
+| Resident Evil - CODE - Veronica (Disc 2 of 2) (-) (Eng) | PavelDAS |
+
+
+Переименования:
+
+| Прежнее название                                                       | Новое название                                                             |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 3-in-1 Quake, Hipnotic - Scourge of Armagon, Quake Zone (Rus) (Vector) | 3-in-1 Quake, Hipnotic - Scourge of Armagon, Quake Zone (Rus) (Vector) [!] |
+| 18 Wheeler - American Pro Trucker (Rus) (PlayZero)                     | 18 Wheeler - American Pro Trucker (Rus) (PlayZero) [!]                     |
+| House of the Dead 2, The (Rus) (Vector)                                | House of the Dead 2, The (Rus) (Vector) [!]                                |
+| Outtrigger (Rus) (RGR) (Alt)                                           | Outtrigger (Rus) (RGR) (Alt) [!]                                           |
+| Tomb Raider - Chronicles (Rus) (Playbox)                               | Tomb Raider - Chronicles (Rus) (Playbox) [!]                               |
+
+
 ### 28.09.2025
 
 Новые образы игр (пока добавлены только в базу данных DreamBeam):

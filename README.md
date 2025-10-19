@@ -64,6 +64,35 @@ TODO rename
 
 Ring, The - Terror's Realm
 
+TODO
+
+RECV, GameShark - Non-Rus
+
+
+### 19.10.2025
+
+
+Новые образы игр (пока добавлены только в базу данных DreamBeam):
+
+| Название                                          | Источник |
+|---------------------------------------------------|----------|
+| SEGA Worldwide Soccer 2000 (Non-Rus) (Studia Max) | PavelDAS |
+| Snow Surfers (Rus) (Vector) (Alt)                 | PavelDAS |
+| Tokyo Xtreme Racer 2 (Rus) (RGR) (Alt)            | PavelDAS |
+
+
+Переименования:
+
+| Прежнее название                            | Новое название                                  |
+|---------------------------------------------|-------------------------------------------------|
+| Evil Dead - Hail to the King (Rus) (Vector) | Evil Dead - Hail to the King (Rus) (Vector) [!] |
+| Game Guru 3 (Rus) (OOO Videoigra) (Alt)     | Game Guru 3 (Rus) (OOO Videoigra) (Alt) [!]     |
+| GTA 2 - Grand Theft Auto 2 (Rus) (RGR)      | GTA 2 - Grand Theft Auto 2 (Rus) (RGR) [!]      |
+| Heavy Metal - Geomatrix (Rus) (RGR)         | Heavy Metal - Geomatrix (Rus) (RGR) [!]         |
+| Illbleed (Rus) (RGR)                        | Illbleed (Rus) (RGR) [!]                        |
+| MP3 Game-Player (Rus) (OOO Videoigra)       | MP3 Game-Player (Rus) (OOO Videoigra) [!]       |
+| UEFA Dream Soccer (Rus) (Vector)            | UEFA Dream Soccer (Rus) (Vector) [!]            |
+
 
 ### 05.10.2025
 
